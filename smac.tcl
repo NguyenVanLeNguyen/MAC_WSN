@@ -7,7 +7,7 @@ set opt(ifq)		Queue/DropTail/PriQueue
 set opt(ll)		LL
 set opt(ant)            Antenna/OmniAntenna
 
-set opt(x)		800	;# X dimension of the topography
+set opt(x)		800	;# X dimension of the  topography
 set opt(y)		800		;# Y dimension of the topography
 set opt(cp)		"../mobility/scene/cbr-50-10-4-512"
 set opt(sc)		"../mobility/scene/scen-670x670-50-600-20-0"
@@ -74,22 +74,22 @@ create-god $opt(nn)
 						-transitionPower 0.2 \
 						-transitionTime 0.005 \
 						-initialEnergy $opt(initialenergy)
-	
+
 	$ns_ set WirelessNewTrace_ ON
 #set AgentTrace			ON
 #set RouterTrace		OFF
 #set MacTrace			ON
 
 	for {set i 0} {$i < $opt(nn) } {incr i} {
-		set node_($i) [$ns_ node]	
+		set node_($i) [$ns_ node]
 		$node_($i) random-motion 0		;# disable random motion
 	}
-	
-#	$node_(1) set agentTrace ON	 
+
+#	$node_(1) set agentTrace ON
 #	$node_(1) set macTrace ON
-#	$node_(1) set routerTrace ON		 	
+#	$node_(1) set routerTrace ON
 #	$node_(0) set macTrace ON
-#	$node_(0) set agentTrace ON	 
+#	$node_(0) set agentTrace ON
 #	$node_(0) set routerTrace ON
 
 set udp_(0) [new Agent/UDP]
@@ -123,7 +123,7 @@ set b [$node_(0) set mac_(0)]
 set d [Mac/SMAC set syncFlag_]
 
 #set e [$node_(0) set netif_(0)]
- 
+
 #set c [$e set L_]
 set c [Mac/SMAC set dutyCycle_]
 #puts $tracefd "M 0.0 nn $opt(nn) x $opt(x) y $opt(y) rp $opt(rp)"
