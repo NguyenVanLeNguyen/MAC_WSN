@@ -1,0 +1,3413 @@
+Starting Simulation...
+
+NOTE: SMAC is running with sleep-wakeup cycles on. Please make sure to run yr applications AFTER the nodes get sync'ed which is about 40sec for the default settings.
+
+num_nodes is set 2
+durSyncPkt_: 10.200000 
+durDataPkt_: 43.000000 
+durCtrlPkt_: 11.000000 
+cycletime=1433.000000, sleeptime=1289.800000, listentime=143.200000,dataTime= 88.000000,syncTime=55.200000
+durSyncPkt_: 10.200000 
+durDataPkt_: 43.000000 
+durCtrlPkt_: 11.000000 
+cycletime=1433.000000, sleeptime=1289.800000, listentime=143.200000,dataTime= 88.000000,syncTime=55.200000
+sync 1 0.003000 17.208000 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+sync 0 0.003000 18.654000 
+sync 1 0.003000 20.072000 
+sync 0 0.003000 32.979001 
+0 SMAC SLEEP: at 33.102201
+WAKEUP: ............node 0 at 34.392001
+sync 1 0.003000 34.420001 
+1 SMAC SLEEP: at 34.535201
+0 SMAC SLEEP: at 34.535201
+WAKEUP: ............node 1 at 35.825001
+WAKEUP: ............node 0 at 35.825001
+1 SMAC SLEEP: at 35.968201
+0 SMAC SLEEP: at 35.968201
+WAKEUP: ............node 1 at 37.258001
+WAKEUP: ............node 0 at 37.258001
+1 SMAC SLEEP: at 37.401201
+0 SMAC SLEEP: at 37.401201
+WAKEUP: ............node 1 at 38.691001
+WAKEUP: ............node 0 at 38.691001
+1 SMAC SLEEP: at 38.834201
+0 SMAC SLEEP: at 38.834201
+WAKEUP: ............node 1 at 40.124001
+WAKEUP: ............node 0 at 40.124001
+1 SMAC SLEEP: at 40.267201
+0 SMAC SLEEP: at 40.267201
+WAKEUP: ............node 1 at 41.557001
+WAKEUP: ............node 0 at 41.557001
+data 0 0.043000 41.656201 
+1 SMAC SLEEP: at 41.700201
+0 SMAC SLEEP: at 41.700201
+WAKEUP: ............node 1 at 42.990001
+WAKEUP: ............node 0 at 42.990001
+data 0 0.043000 43.067201 
+1 SMAC SLEEP: at 43.133201
+0 SMAC SLEEP: at 43.133201
+WAKEUP: ............node 1 at 44.423001
+WAKEUP: ............node 0 at 44.423001
+node: 1 ..............data sent Uni............
+rts 1 0.011000 44.497201 
+cts 0 0.011000 44.508201 
+packet lenght: 50 
+data 1 0.043000 44.519201 
+ack 0 0.011000 44.562202 
+0 SMAC SLEEP: at 44.566201
+WAKEUP: ............node 0 at 45.856001
+node: 1 ..............data sent Uni............
+rts 1 0.011000 45.968201 
+cts 0 0.011000 45.979201 
+packet lenght: 50 
+data 1 0.043000 45.990201 
+ack 0 0.011000 46.033202 
+sync 0 0.003000 47.319001 
+data 0 0.043000 47.361201 
+0 SMAC SLEEP: at 47.432201
+1 SMAC SLEEP: at 47.432201
+WAKEUP: ............node 0 at 48.722001
+WAKEUP: ............node 1 at 48.722001
+sync 1 0.003000 48.747001 
+node: 1 ..............data sent Uni............
+rts 1 0.011000 48.802201 
+cts 0 0.011000 48.813202 
+packet lenght: 50 
+data 1 0.043000 48.824202 
+ack 0 0.011000 48.867202 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 50.234202 
+cts 1 0.011000 50.245202 
+packet lenght: 50 
+data 0 0.043000 50.256202 
+ack 1 0.011000 50.299202 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 51.689202 
+cts 1 0.011000 51.700202 
+packet lenght: 50 
+data 0 0.043000 51.711202 
+ack 1 0.011000 51.754202 
+active 1 4.442200
+1 SMAC SLEEP: at 53.164201
+active 0 4.442200
+0 SMAC SLEEP: at 53.164202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 54.454001
+sleep 0 1.289800
+WAKEUP: ............node 0 at 54.454002
+active 1 0.143200
+1 SMAC SLEEP: at 54.597201
+active 0 0.143200
+0 SMAC SLEEP: at 54.597202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 55.887001
+sleep 0 1.289800
+WAKEUP: ............node 0 at 55.887002
+active 1 0.143200
+1 SMAC SLEEP: at 56.030201
+active 0 0.143200
+0 SMAC SLEEP: at 56.030202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 57.320001
+sleep 0 1.289800
+WAKEUP: ............node 0 at 57.320002
+active 1 0.143200
+1 SMAC SLEEP: at 57.463201
+active 0 0.143200
+0 SMAC SLEEP: at 57.463202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 58.753001
+sleep 0 1.289800
+WAKEUP: ............node 0 at 58.753002
+active 1 0.143200
+1 SMAC SLEEP: at 58.896201
+active 0 0.143200
+0 SMAC SLEEP: at 58.896202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 60.186001
+sleep 0 1.289800
+WAKEUP: ............node 0 at 60.186002
+active 1 0.143200
+1 SMAC SLEEP: at 60.329201
+active 0 0.143200
+0 SMAC SLEEP: at 60.329202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 61.619001
+sleep 0 1.289800
+WAKEUP: ............node 0 at 61.619002
+sync 0 0.003000 61.653002 
+active 0 0.143200
+0 SMAC SLEEP: at 61.762202
+active 1 0.143200
+1 SMAC SLEEP: at 61.762202
+sleep 0 1.289800
+WAKEUP: ............node 0 at 63.052002
+sleep 1 1.289800
+WAKEUP: ............node 1 at 63.052002
+sync 1 0.003000 63.073002 
+active 1 0.143200
+1 SMAC SLEEP: at 63.195202
+active 0 0.143200
+0 SMAC SLEEP: at 63.195202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 64.485002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 64.485002
+active 1 0.143200
+1 SMAC SLEEP: at 64.628202
+active 0 0.143200
+0 SMAC SLEEP: at 64.628202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 65.918002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 65.918002
+active 1 0.143200
+1 SMAC SLEEP: at 66.061202
+active 0 0.143200
+0 SMAC SLEEP: at 66.061202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 67.351002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 67.351002
+active 1 0.143200
+1 SMAC SLEEP: at 67.494202
+active 0 0.143200
+0 SMAC SLEEP: at 67.494202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 68.784002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 68.784002
+active 1 0.143200
+1 SMAC SLEEP: at 68.927202
+active 0 0.143200
+0 SMAC SLEEP: at 68.927202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 70.217002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 70.217002
+active 1 0.143200
+1 SMAC SLEEP: at 70.360202
+active 0 0.143200
+0 SMAC SLEEP: at 70.360202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 71.650002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 71.650002
+active 1 0.143200
+1 SMAC SLEEP: at 71.793202
+active 0 0.143200
+0 SMAC SLEEP: at 71.793202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 73.083002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 73.083002
+active 1 0.143200
+1 SMAC SLEEP: at 73.226202
+active 0 0.143200
+0 SMAC SLEEP: at 73.226202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 74.516002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 74.516002
+active 1 0.143200
+1 SMAC SLEEP: at 74.659202
+active 0 0.143200
+0 SMAC SLEEP: at 74.659202
+sleep 1 1.289800
+WAKEUP: ............node 1 at 75.949002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 75.949002
+sync 0 0.003000 75.967002 
+active 0 0.143200
+0 SMAC SLEEP: at 76.092202
+active 1 0.143200
+1 SMAC SLEEP: at 76.092202
+sleep 0 1.289800
+WAKEUP: ............node 0 at 77.382002
+sleep 1 1.289800
+WAKEUP: ............node 1 at 77.382002
+sync 1 0.003000 77.396002 
+active 1 0.143200
+1 SMAC SLEEP: at 77.525202
+active 0 0.143200
+0 SMAC SLEEP: at 77.525203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 78.815002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 78.815003
+active 1 0.143200
+1 SMAC SLEEP: at 78.958202
+active 0 0.143200
+0 SMAC SLEEP: at 78.958203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 80.248002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 80.248003
+active 1 0.143200
+1 SMAC SLEEP: at 80.391202
+active 0 0.143200
+0 SMAC SLEEP: at 80.391203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 81.681002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 81.681003
+active 1 0.143200
+1 SMAC SLEEP: at 81.824202
+active 0 0.143200
+0 SMAC SLEEP: at 81.824203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 83.114002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 83.114003
+active 1 0.143200
+1 SMAC SLEEP: at 83.257202
+active 0 0.143200
+0 SMAC SLEEP: at 83.257203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 84.547002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 84.547003
+active 1 0.143200
+1 SMAC SLEEP: at 84.690202
+active 0 0.143200
+0 SMAC SLEEP: at 84.690203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 85.980002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 85.980003
+active 1 0.143200
+1 SMAC SLEEP: at 86.123202
+active 0 0.143200
+0 SMAC SLEEP: at 86.123203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 87.413002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 87.413003
+active 1 0.143200
+1 SMAC SLEEP: at 87.556202
+active 0 0.143200
+0 SMAC SLEEP: at 87.556203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 88.846002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 88.846003
+active 1 0.143200
+1 SMAC SLEEP: at 88.989202
+active 0 0.143200
+0 SMAC SLEEP: at 88.989203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 90.279002
+sleep 0 1.289800
+WAKEUP: ............node 0 at 90.279003
+sync 0 0.003000 90.289003 
+active 0 0.143200
+0 SMAC SLEEP: at 90.422203
+active 1 0.143200
+1 SMAC SLEEP: at 90.422203
+sleep 0 1.289800
+WAKEUP: ............node 0 at 91.712003
+sleep 1 1.289800
+WAKEUP: ............node 1 at 91.712003
+sync 1 0.003000 91.737003 
+active 1 0.143200
+1 SMAC SLEEP: at 91.855203
+active 0 0.143200
+0 SMAC SLEEP: at 91.855203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 93.145003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 93.145003
+active 1 0.143200
+1 SMAC SLEEP: at 93.288203
+active 0 0.143200
+0 SMAC SLEEP: at 93.288203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 94.578003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 94.578003
+active 1 0.143200
+1 SMAC SLEEP: at 94.721203
+active 0 0.143200
+0 SMAC SLEEP: at 94.721203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 96.011003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 96.011003
+active 1 0.143200
+1 SMAC SLEEP: at 96.154203
+active 0 0.143200
+0 SMAC SLEEP: at 96.154203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 97.444003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 97.444003
+active 1 0.143200
+1 SMAC SLEEP: at 97.587203
+active 0 0.143200
+0 SMAC SLEEP: at 97.587203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 98.877003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 98.877003
+active 1 0.143200
+1 SMAC SLEEP: at 99.020203
+active 0 0.143200
+0 SMAC SLEEP: at 99.020203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 100.310003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 100.310003
+active 1 0.143200
+1 SMAC SLEEP: at 100.453203
+active 0 0.143200
+0 SMAC SLEEP: at 100.453203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 101.743003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 101.743003
+active 1 0.143200
+1 SMAC SLEEP: at 101.886203
+active 0 0.143200
+0 SMAC SLEEP: at 101.886203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 103.176003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 103.176003
+active 1 0.143200
+1 SMAC SLEEP: at 103.319203
+active 0 0.143200
+0 SMAC SLEEP: at 103.319203
+sleep 1 1.289800
+WAKEUP: ............node 1 at 104.609003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 104.609003
+sync 0 0.003000 104.620003 
+active 0 0.143200
+0 SMAC SLEEP: at 104.752203
+active 1 0.143200
+1 SMAC SLEEP: at 104.752203
+sleep 0 1.289800
+WAKEUP: ............node 0 at 106.042003
+sleep 1 1.289800
+WAKEUP: ............node 1 at 106.042003
+sync 1 0.003000 106.064003 
+active 1 0.143200
+1 SMAC SLEEP: at 106.185203
+active 0 0.143200
+0 SMAC SLEEP: at 106.185204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 107.475003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 107.475004
+active 1 0.143200
+1 SMAC SLEEP: at 107.618203
+active 0 0.143200
+0 SMAC SLEEP: at 107.618204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 108.908003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 108.908004
+active 1 0.143200
+1 SMAC SLEEP: at 109.051203
+active 0 0.143200
+0 SMAC SLEEP: at 109.051204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 110.341003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 110.341004
+active 1 0.143200
+1 SMAC SLEEP: at 110.484203
+active 0 0.143200
+0 SMAC SLEEP: at 110.484204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 111.774003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 111.774004
+active 1 0.143200
+1 SMAC SLEEP: at 111.917203
+active 0 0.143200
+0 SMAC SLEEP: at 111.917204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 113.207003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 113.207004
+active 1 0.143200
+1 SMAC SLEEP: at 113.350203
+active 0 0.143200
+0 SMAC SLEEP: at 113.350204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 114.640003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 114.640004
+active 1 0.143200
+1 SMAC SLEEP: at 114.783203
+active 0 0.143200
+0 SMAC SLEEP: at 114.783204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 116.073003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 116.073004
+active 1 0.143200
+1 SMAC SLEEP: at 116.216203
+active 0 0.143200
+0 SMAC SLEEP: at 116.216204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 117.506003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 117.506004
+active 1 0.143200
+1 SMAC SLEEP: at 117.649203
+active 0 0.143200
+0 SMAC SLEEP: at 117.649204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 118.939003
+sleep 0 1.289800
+WAKEUP: ............node 0 at 118.939004
+sync 0 0.003000 118.964004 
+active 0 0.143200
+0 SMAC SLEEP: at 119.082204
+active 1 0.143200
+1 SMAC SLEEP: at 119.082204
+sleep 0 1.289800
+WAKEUP: ............node 0 at 120.372004
+sleep 1 1.289800
+WAKEUP: ............node 1 at 120.372004
+sync 1 0.003000 120.405004 
+active 1 0.143200
+1 SMAC SLEEP: at 120.515204
+active 0 0.143200
+0 SMAC SLEEP: at 120.515204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 121.805004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 121.805004
+active 1 0.143200
+1 SMAC SLEEP: at 121.948204
+active 0 0.143200
+0 SMAC SLEEP: at 121.948204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 123.238004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 123.238004
+active 1 0.143200
+1 SMAC SLEEP: at 123.381204
+active 0 0.143200
+0 SMAC SLEEP: at 123.381204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 124.671004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 124.671004
+active 1 0.143200
+1 SMAC SLEEP: at 124.814204
+active 0 0.143200
+0 SMAC SLEEP: at 124.814204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 126.104004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 126.104004
+active 1 0.143200
+1 SMAC SLEEP: at 126.247204
+active 0 0.143200
+0 SMAC SLEEP: at 126.247204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 127.537004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 127.537004
+active 1 0.143200
+1 SMAC SLEEP: at 127.680204
+active 0 0.143200
+0 SMAC SLEEP: at 127.680204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 128.970004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 128.970004
+active 1 0.143200
+1 SMAC SLEEP: at 129.113204
+active 0 0.143200
+0 SMAC SLEEP: at 129.113204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 130.403004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 130.403004
+active 1 0.143200
+1 SMAC SLEEP: at 130.546204
+active 0 0.143200
+0 SMAC SLEEP: at 130.546204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 131.836004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 131.836004
+active 1 0.143200
+1 SMAC SLEEP: at 131.979204
+active 0 0.143200
+0 SMAC SLEEP: at 131.979204
+sleep 1 1.289800
+WAKEUP: ............node 1 at 133.269004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 133.269004
+sync 0 0.003000 133.289004 
+active 0 0.143200
+0 SMAC SLEEP: at 133.412204
+active 1 0.143200
+1 SMAC SLEEP: at 133.412204
+sleep 0 1.289800
+WAKEUP: ............node 0 at 134.702004
+sleep 1 1.289800
+WAKEUP: ............node 1 at 134.702004
+sync 1 0.003000 134.716004 
+active 1 0.143200
+1 SMAC SLEEP: at 134.845204
+active 0 0.143200
+0 SMAC SLEEP: at 134.845205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 136.135004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 136.135005
+active 1 0.143200
+1 SMAC SLEEP: at 136.278204
+active 0 0.143200
+0 SMAC SLEEP: at 136.278205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 137.568004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 137.568005
+active 1 0.143200
+1 SMAC SLEEP: at 137.711204
+active 0 0.143200
+0 SMAC SLEEP: at 137.711205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 139.001004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 139.001005
+active 1 0.143200
+1 SMAC SLEEP: at 139.144204
+active 0 0.143200
+0 SMAC SLEEP: at 139.144205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 140.434004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 140.434005
+active 1 0.143200
+1 SMAC SLEEP: at 140.577204
+active 0 0.143200
+0 SMAC SLEEP: at 140.577205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 141.867004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 141.867005
+active 1 0.143200
+1 SMAC SLEEP: at 142.010204
+active 0 0.143200
+0 SMAC SLEEP: at 142.010205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 143.300004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 143.300005
+active 1 0.143200
+1 SMAC SLEEP: at 143.443204
+active 0 0.143200
+0 SMAC SLEEP: at 143.443205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 144.733004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 144.733005
+active 1 0.143200
+1 SMAC SLEEP: at 144.876204
+active 0 0.143200
+0 SMAC SLEEP: at 144.876205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 146.166004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 146.166005
+active 1 0.143200
+1 SMAC SLEEP: at 146.309204
+active 0 0.143200
+0 SMAC SLEEP: at 146.309205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 147.599004
+sleep 0 1.289800
+WAKEUP: ............node 0 at 147.599005
+sync 0 0.003000 147.619005 
+active 0 0.143200
+0 SMAC SLEEP: at 147.742205
+active 1 0.143200
+1 SMAC SLEEP: at 147.742205
+sleep 0 1.289800
+WAKEUP: ............node 0 at 149.032005
+sleep 1 1.289800
+WAKEUP: ............node 1 at 149.032005
+sync 1 0.003000 149.059005 
+active 1 0.143200
+1 SMAC SLEEP: at 149.175205
+active 0 0.143200
+0 SMAC SLEEP: at 149.175205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 150.465005
+sleep 0 1.289800
+WAKEUP: ............node 0 at 150.465005
+active 1 0.143200
+1 SMAC SLEEP: at 150.608205
+active 0 0.143200
+0 SMAC SLEEP: at 150.608205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 151.898005
+sleep 0 1.289800
+WAKEUP: ............node 0 at 151.898005
+active 1 0.143200
+1 SMAC SLEEP: at 152.041205
+active 0 0.143200
+0 SMAC SLEEP: at 152.041205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 153.331005
+sleep 0 1.289800
+WAKEUP: ............node 0 at 153.331005
+active 1 0.143200
+1 SMAC SLEEP: at 153.474205
+active 0 0.143200
+0 SMAC SLEEP: at 153.474205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 154.764005
+sleep 0 1.289800
+WAKEUP: ............node 0 at 154.764005
+active 1 0.143200
+1 SMAC SLEEP: at 154.907205
+active 0 0.143200
+0 SMAC SLEEP: at 154.907205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 156.197005
+sleep 0 1.289800
+WAKEUP: ............node 0 at 156.197005
+active 1 0.143200
+1 SMAC SLEEP: at 156.340205
+active 0 0.143200
+0 SMAC SLEEP: at 156.340205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 157.630005
+sleep 0 1.289800
+WAKEUP: ............node 0 at 157.630005
+node: 0 ..............data sent Uni............
+rts 0 0.011000 157.741205 
+cts 1 0.011000 157.752205 
+packet lenght: 50 
+data 0 0.043000 157.763206 
+ack 1 0.011000 157.806206 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 159.161205 
+cts 1 0.011000 159.172205 
+packet lenght: 50 
+data 0 0.043000 159.183206 
+ack 1 0.011000 159.226206 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 160.577205 
+cts 1 0.011000 160.588205 
+active 0 3.009200
+0 SMAC SLEEP: at 160.639205
+sleep 0 1.289800
+WAKEUP: ............node 0 at 161.929005
+sync 0 0.003000 161.950005 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 162.034205 
+cts 1 0.011000 162.045205 
+packet lenght: 50 
+data 0 0.043000 162.056206 
+ack 1 0.011000 162.099206 
+sync 1 0.003000 163.383005 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 163.470206 
+cts 1 0.011000 163.481206 
+packet lenght: 50 
+data 0 0.043000 163.492206 
+ack 1 0.011000 163.535206 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 164.866206 
+cts 1 0.011000 164.877206 
+packet lenght: 50 
+data 0 0.043000 164.888206 
+ack 1 0.011000 164.931206 
+active 1 7.308200
+1 SMAC SLEEP: at 164.938205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 166.228005
+node: 0 ..............data sent Uni............
+rts 0 0.011000 166.329206 
+cts 1 0.011000 166.340206 
+packet lenght: 50 
+data 0 0.043000 166.351206 
+ack 1 0.011000 166.394206 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 167.758206 
+cts 1 0.011000 167.769206 
+packet lenght: 50 
+data 0 0.043000 167.780206 
+ack 1 0.011000 167.823206 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 169.202206 
+cts 1 0.011000 169.213206 
+packet lenght: 50 
+data 0 0.043000 169.224206 
+ack 1 0.011000 169.267206 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 170.594206 
+cts 1 0.011000 170.605206 
+packet lenght: 50 
+data 0 0.043000 170.616206 
+ack 1 0.011000 170.659206 
+active 1 4.442200
+1 SMAC SLEEP: at 170.670205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 171.960005
+node: 0 ..............data sent Uni............
+rts 0 0.011000 172.035206 
+cts 1 0.011000 172.046206 
+packet lenght: 50 
+data 0 0.043000 172.057206 
+ack 1 0.011000 172.100206 
+active 1 0.143200
+1 SMAC SLEEP: at 172.103205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 173.393005
+node: 0 ..............data sent Uni............
+rts 0 0.011000 173.474206 
+cts 1 0.011000 173.485206 
+packet lenght: 50 
+data 0 0.043000 173.496206 
+ack 1 0.011000 173.539206 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 174.893206 
+cts 1 0.011000 174.904206 
+packet lenght: 50 
+data 0 0.043000 174.915206 
+ack 1 0.011000 174.958206 
+active 1 1.576200
+1 SMAC SLEEP: at 174.969205
+sleep 1 1.289800
+WAKEUP: ............node 1 at 176.259005
+sync 0 0.003000 176.269006 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 176.373206 
+cts 1 0.011000 176.384206 
+packet lenght: 50 
+data 0 0.043000 176.395206 
+ack 1 0.011000 176.438206 
+sync 1 0.003000 177.710006 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 177.778206 
+cts 1 0.011000 177.789206 
+packet lenght: 50 
+data 0 0.043000 177.800207 
+ack 1 0.011000 177.843207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 179.241206 
+cts 1 0.011000 179.252206 
+packet lenght: 50 
+data 0 0.043000 179.263207 
+ack 1 0.011000 179.306207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 180.652206 
+cts 1 0.011000 180.663206 
+packet lenght: 50 
+data 0 0.043000 180.674207 
+ack 1 0.011000 180.717207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 182.078206 
+cts 1 0.011000 182.089206 
+packet lenght: 50 
+data 0 0.043000 182.100207 
+ack 1 0.011000 182.143207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 183.534206 
+cts 1 0.011000 183.545206 
+packet lenght: 50 
+data 0 0.043000 183.556207 
+ack 1 0.011000 183.599207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 184.957206 
+cts 1 0.011000 184.968206 
+packet lenght: 50 
+data 0 0.043000 184.979207 
+ack 1 0.011000 185.022207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 186.374206 
+cts 1 0.011000 186.385206 
+packet lenght: 50 
+data 0 0.043000 186.396207 
+ack 1 0.011000 186.439207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 187.829206 
+cts 1 0.011000 187.840206 
+packet lenght: 50 
+data 0 0.043000 187.851207 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 187.912207 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 187.955207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 189.259206 
+cts 1 0.011000 189.270206 
+packet lenght: 50 
+data 0 0.043000 189.281207 
+ack 1 0.011000 189.324207 
+sync 0 0.003000 190.601006 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 190.716206 
+cts 1 0.011000 190.727206 
+packet lenght: 50 
+data 0 0.043000 190.738207 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 190.799207 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 190.842207 
+sync 1 0.003000 192.050006 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 192.125207 
+cts 1 0.011000 192.136207 
+packet lenght: 50 
+data 0 0.043000 192.147207 
+ack 1 0.011000 192.190207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 193.533207 
+cts 1 0.011000 193.544207 
+packet lenght: 50 
+data 0 0.043000 193.555207 
+ack 1 0.011000 193.598207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 194.955207 
+cts 1 0.011000 194.966207 
+packet lenght: 50 
+data 0 0.043000 194.977207 
+ack 1 0.011000 195.020207 
+active 1 18.772201
+1 SMAC SLEEP: at 195.031206
+sleep 1 1.289800
+WAKEUP: ............node 1 at 196.321006
+node: 0 ..............data sent Uni............
+rts 0 0.011000 196.447207 
+cts 1 0.011000 196.458207 
+packet lenght: 50 
+data 0 0.043000 196.469207 
+ack 1 0.011000 196.512207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 197.837207 
+cts 1 0.011000 197.848207 
+packet lenght: 50 
+data 0 0.043000 197.859207 
+ack 1 0.011000 197.902207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 199.269207 
+cts 1 0.011000 199.280207 
+packet lenght: 50 
+data 0 0.043000 199.291207 
+ack 1 0.011000 199.334207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 200.708207 
+cts 1 0.011000 200.719207 
+packet lenght: 50 
+data 0 0.043000 200.730207 
+ack 1 0.011000 200.773207 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 202.118207 
+cts 1 0.011000 202.129207 
+packet lenght: 50 
+data 0 0.043000 202.140207 
+ack 1 0.011000 202.183207 
+active 1 5.875200
+1 SMAC SLEEP: at 202.196206
+active 0 40.267201
+0 SMAC SLEEP: at 202.196207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 203.486006
+sleep 0 1.289800
+WAKEUP: ............node 0 at 203.486007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 203.561207 
+cts 1 0.011000 203.572207 
+packet lenght: 50 
+data 0 0.043000 203.583207 
+ack 1 0.011000 203.626207 
+active 1 0.143200
+1 SMAC SLEEP: at 203.629206
+sleep 1 1.289800
+WAKEUP: ............node 1 at 204.919006
+sync 0 0.003000 204.948007 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 205.021207 
+cts 1 0.011000 205.032207 
+packet lenght: 50 
+data 0 0.043000 205.043207 
+ack 1 0.011000 205.086207 
+sync 1 0.003000 206.368007 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 206.433207 
+cts 1 0.011000 206.444207 
+packet lenght: 50 
+data 0 0.043000 206.455208 
+ack 1 0.011000 206.498208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 207.850207 
+cts 1 0.011000 207.861207 
+packet lenght: 50 
+data 0 0.043000 207.872208 
+ack 1 0.011000 207.915208 
+active 1 3.009200
+1 SMAC SLEEP: at 207.928207
+active 0 4.442200
+0 SMAC SLEEP: at 207.928207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 209.218007
+sleep 0 1.289800
+WAKEUP: ............node 0 at 209.218007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 209.305207 
+cts 1 0.011000 209.316207 
+packet lenght: 50 
+data 0 0.043000 209.327208 
+ack 1 0.011000 209.370208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 210.728207 
+cts 1 0.011000 210.739207 
+packet lenght: 50 
+data 0 0.043000 210.750208 
+ack 1 0.011000 210.793208 
+active 1 1.576200
+1 SMAC SLEEP: at 210.794207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 212.084007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 212.167207 
+cts 1 0.011000 212.178207 
+packet lenght: 50 
+data 0 0.043000 212.189208 
+ack 1 0.011000 212.232208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 213.609207 
+cts 1 0.011000 213.620207 
+packet lenght: 50 
+data 0 0.043000 213.631208 
+ack 1 0.011000 213.674208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 215.019207 
+cts 1 0.011000 215.030207 
+packet lenght: 50 
+data 0 0.043000 215.041208 
+ack 1 0.011000 215.084208 
+active 1 3.009200
+1 SMAC SLEEP: at 215.093207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 216.383007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 216.460207 
+cts 1 0.011000 216.471207 
+packet lenght: 50 
+data 0 0.043000 216.482208 
+ack 1 0.011000 216.525208 
+active 1 0.143200
+1 SMAC SLEEP: at 216.526207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 217.816007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 217.884207 
+cts 1 0.011000 217.895207 
+packet lenght: 50 
+data 0 0.043000 217.906208 
+ack 1 0.011000 217.949208 
+active 1 0.143200
+1 SMAC SLEEP: at 217.959207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 219.249007
+sync 0 0.003000 219.279007 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 219.348207 
+cts 1 0.011000 219.359207 
+packet lenght: 50 
+data 0 0.043000 219.370208 
+ack 1 0.011000 219.413208 
+sync 1 0.003000 220.711007 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 220.752208 
+cts 1 0.011000 220.763208 
+packet lenght: 50 
+data 0 0.043000 220.774208 
+ack 1 0.011000 220.817208 
+active 1 1.576200
+1 SMAC SLEEP: at 220.825207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 222.115007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 222.203208 
+cts 1 0.011000 222.214208 
+packet lenght: 50 
+data 0 0.043000 222.225208 
+ack 1 0.011000 222.268208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 223.665208 
+cts 1 0.011000 223.676208 
+packet lenght: 50 
+data 0 0.043000 223.687208 
+ack 1 0.011000 223.730208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 225.057208 
+cts 1 0.011000 225.068208 
+packet lenght: 50 
+data 0 0.043000 225.079208 
+ack 1 0.011000 225.122208 
+active 1 3.009200
+1 SMAC SLEEP: at 225.124207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 226.414007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 226.483208 
+cts 1 0.011000 226.494208 
+packet lenght: 50 
+data 0 0.043000 226.505208 
+ack 1 0.011000 226.548208 
+active 1 0.143200
+1 SMAC SLEEP: at 226.557207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 227.847007
+node: 0 ..............data sent Uni............
+rts 0 0.011000 227.971208 
+cts 1 0.011000 227.982208 
+packet lenght: 50 
+data 0 0.043000 227.993208 
+ack 1 0.011000 228.036208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 229.393208 
+cts 1 0.011000 229.404208 
+packet lenght: 50 
+data 0 0.043000 229.415208 
+ack 1 0.011000 229.458208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 230.831208 
+cts 1 0.011000 230.842208 
+packet lenght: 50 
+data 0 0.043000 230.853208 
+ack 1 0.011000 230.896208 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 232.222208 
+cts 1 0.011000 232.233208 
+packet lenght: 50 
+data 0 0.043000 232.244208 
+ack 1 0.011000 232.287208 
+active 1 4.442200
+1 SMAC SLEEP: at 232.289207
+sleep 1 1.289800
+WAKEUP: ............node 1 at 233.579007
+sync 0 0.003000 233.612008 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 233.671208 
+cts 1 0.011000 233.682208 
+packet lenght: 50 
+data 0 0.043000 233.693208 
+ack 1 0.011000 233.736208 
+sync 1 0.003000 235.050008 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 235.122208 
+cts 1 0.011000 235.133208 
+packet lenght: 50 
+data 0 0.043000 235.144209 
+ack 1 0.011000 235.187209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 236.561208 
+cts 1 0.011000 236.572208 
+packet lenght: 50 
+data 0 0.043000 236.583209 
+ack 1 0.011000 236.626209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 237.987208 
+cts 1 0.011000 237.998208 
+packet lenght: 50 
+data 0 0.043000 238.009209 
+ack 1 0.011000 238.052209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 239.416208 
+cts 1 0.011000 239.427208 
+packet lenght: 50 
+data 0 0.043000 239.438209 
+ack 1 0.011000 239.481209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 240.832208 
+cts 1 0.011000 240.843208 
+packet lenght: 50 
+data 0 0.043000 240.854209 
+ack 1 0.011000 240.897209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 242.304208 
+cts 1 0.011000 242.315208 
+packet lenght: 50 
+data 0 0.043000 242.326209 
+ack 1 0.011000 242.369209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 243.725208 
+cts 1 0.011000 243.736208 
+packet lenght: 50 
+data 0 0.043000 243.747209 
+ack 1 0.011000 243.790209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 245.115208 
+cts 1 0.011000 245.126208 
+packet lenght: 50 
+data 0 0.043000 245.137209 
+ack 1 0.011000 245.180209 
+active 1 11.607200
+1 SMAC SLEEP: at 245.186208
+sleep 1 1.289800
+WAKEUP: ............node 1 at 246.476008
+node: 0 ..............data sent Uni............
+rts 0 0.011000 246.568208 
+cts 1 0.011000 246.579208 
+packet lenght: 50 
+data 0 0.043000 246.590209 
+ack 1 0.011000 246.633209 
+sync 0 0.003000 247.939008 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 248.021208 
+cts 1 0.011000 248.032208 
+packet lenght: 50 
+data 0 0.043000 248.043209 
+ack 1 0.011000 248.086209 
+sync 1 0.003000 249.372008 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 249.440209 
+cts 1 0.011000 249.451209 
+packet lenght: 50 
+data 0 0.043000 249.462209 
+ack 1 0.011000 249.505209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 250.847209 
+cts 1 0.011000 250.858209 
+packet lenght: 50 
+data 0 0.043000 250.869209 
+ack 1 0.011000 250.912209 
+active 1 4.442200
+1 SMAC SLEEP: at 250.918208
+sleep 1 1.289800
+WAKEUP: ............node 1 at 252.208008
+node: 0 ..............data sent Uni............
+rts 0 0.011000 252.303209 
+cts 1 0.011000 252.314209 
+packet lenght: 50 
+data 0 0.043000 252.325209 
+ack 1 0.011000 252.368209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 253.737209 
+cts 1 0.011000 253.748209 
+packet lenght: 50 
+data 0 0.043000 253.759209 
+ack 1 0.011000 253.802209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 255.187209 
+cts 1 0.011000 255.198209 
+packet lenght: 50 
+data 0 0.043000 255.209209 
+ack 1 0.011000 255.252209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 256.605209 
+cts 1 0.011000 256.616209 
+packet lenght: 50 
+data 0 0.043000 256.627209 
+ack 1 0.011000 256.670209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 258.046209 
+cts 1 0.011000 258.057209 
+packet lenght: 50 
+data 0 0.043000 258.068209 
+ack 1 0.011000 258.111209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 259.474209 
+cts 1 0.011000 259.485209 
+packet lenght: 50 
+data 0 0.043000 259.496209 
+ack 1 0.011000 259.539209 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 260.878209 
+cts 1 0.011000 260.889209 
+packet lenght: 50 
+data 0 0.043000 260.900209 
+ack 1 0.011000 260.943209 
+active 1 8.741200
+1 SMAC SLEEP: at 260.949208
+sleep 1 1.289800
+WAKEUP: ............node 1 at 262.239008
+sync 0 0.003000 262.260009 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 262.317209 
+cts 1 0.011000 262.328209 
+packet lenght: 50 
+data 0 0.043000 262.339209 
+ack 1 0.011000 262.382209 
+sync 1 0.003000 263.683009 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 263.772209 
+cts 1 0.011000 263.783209 
+packet lenght: 50 
+data 0 0.043000 263.794210 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 263.855210 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 263.898210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 265.176209 
+cts 1 0.011000 265.187209 
+packet lenght: 50 
+data 0 0.043000 265.198210 
+ack 1 0.011000 265.241210 
+active 1 3.009200
+1 SMAC SLEEP: at 265.248209
+sleep 1 1.289800
+WAKEUP: ............node 1 at 266.538009
+node: 0 ..............data sent Uni............
+rts 0 0.011000 266.653209 
+cts 1 0.011000 266.664209 
+packet lenght: 50 
+data 0 0.043000 266.675210 
+ack 1 0.011000 266.718210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 268.053209 
+cts 1 0.011000 268.064209 
+packet lenght: 50 
+data 0 0.043000 268.075210 
+ack 1 0.011000 268.118210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 269.529209 
+cts 1 0.011000 269.540209 
+packet lenght: 50 
+data 0 0.043000 269.551210 
+ack 1 0.011000 269.594210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 270.957209 
+cts 1 0.011000 270.968209 
+packet lenght: 50 
+data 0 0.043000 270.979210 
+ack 1 0.011000 271.022210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 272.387209 
+cts 1 0.011000 272.398209 
+packet lenght: 50 
+data 0 0.043000 272.409210 
+ack 1 0.011000 272.452210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 273.779209 
+cts 1 0.011000 273.790209 
+active 0 64.628202
+0 SMAC SLEEP: at 273.846209
+sleep 0 1.289800
+WAKEUP: ............node 0 at 275.136009
+node: 0 ..............data sent Uni............
+rts 0 0.011000 275.221209 
+cts 1 0.011000 275.232209 
+packet lenght: 50 
+data 0 0.043000 275.243210 
+ack 1 0.011000 275.286210 
+sync 0 0.003000 276.585009 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 276.654209 
+cts 1 0.011000 276.665209 
+packet lenght: 50 
+data 0 0.043000 276.676210 
+ack 1 0.011000 276.719210 
+sync 1 0.003000 278.017009 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 278.080210 
+cts 1 0.011000 278.091210 
+packet lenght: 50 
+data 0 0.043000 278.102210 
+ack 1 0.011000 278.145210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 279.535210 
+cts 1 0.011000 279.546210 
+packet lenght: 50 
+data 0 0.043000 279.557210 
+ack 1 0.011000 279.600210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 280.992210 
+cts 1 0.011000 281.003210 
+packet lenght: 50 
+data 0 0.043000 281.014210 
+ack 1 0.011000 281.057210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 282.387210 
+cts 1 0.011000 282.398210 
+packet lenght: 50 
+data 0 0.043000 282.409210 
+ack 1 0.011000 282.452210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 283.840210 
+cts 1 0.011000 283.851210 
+packet lenght: 50 
+data 0 0.043000 283.862210 
+ack 1 0.011000 283.905210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 285.292210 
+cts 1 0.011000 285.303210 
+packet lenght: 50 
+data 0 0.043000 285.314210 
+ack 1 0.011000 285.357210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 286.676210 
+cts 1 0.011000 286.687210 
+packet lenght: 50 
+data 0 0.043000 286.698210 
+ack 1 0.011000 286.741210 
+active 1 20.205200
+1 SMAC SLEEP: at 286.743209
+sleep 1 1.289800
+WAKEUP: ............node 1 at 288.033009
+node: 0 ..............data sent Uni............
+rts 0 0.011000 288.144210 
+cts 1 0.011000 288.155210 
+packet lenght: 50 
+data 0 0.043000 288.166210 
+ack 1 0.011000 288.209210 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 289.564210 
+cts 1 0.011000 289.575210 
+packet lenght: 50 
+data 0 0.043000 289.586210 
+ack 1 0.011000 289.629210 
+sync 0 0.003000 290.909010 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 291.017210 
+cts 1 0.011000 291.028210 
+packet lenght: 50 
+data 0 0.043000 291.039210 
+ack 1 0.011000 291.082210 
+sync 1 0.003000 292.353010 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 292.398210 
+cts 1 0.011000 292.409210 
+packet lenght: 50 
+data 0 0.043000 292.420211 
+ack 1 0.011000 292.463211 
+active 1 4.442200
+1 SMAC SLEEP: at 292.475210
+active 0 17.339201
+0 SMAC SLEEP: at 292.475210
+sleep 1 1.289800
+WAKEUP: ............node 1 at 293.765010
+sleep 0 1.289800
+WAKEUP: ............node 0 at 293.765010
+node: 0 ..............data sent Uni............
+rts 0 0.011000 293.890210 
+cts 1 0.011000 293.901210 
+packet lenght: 50 
+data 0 0.043000 293.912211 
+ack 1 0.011000 293.955211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 295.325210 
+cts 1 0.011000 295.336210 
+packet lenght: 50 
+data 0 0.043000 295.347211 
+ack 1 0.011000 295.390211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 296.713210 
+cts 1 0.011000 296.724210 
+packet lenght: 50 
+data 0 0.043000 296.735211 
+ack 1 0.011000 296.778211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 298.173210 
+cts 1 0.011000 298.184210 
+packet lenght: 50 
+data 0 0.043000 298.195211 
+ack 1 0.011000 298.238211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 299.571210 
+cts 1 0.011000 299.582210 
+packet lenght: 50 
+data 0 0.043000 299.593211 
+ack 1 0.011000 299.636211 
+active 1 5.875200
+1 SMAC SLEEP: at 299.640210
+sleep 1 1.289800
+WAKEUP: ............node 1 at 300.930010
+node: 0 ..............data sent Uni............
+rts 0 0.011000 301.053210 
+cts 1 0.011000 301.064210 
+packet lenght: 50 
+data 0 0.043000 301.075211 
+ack 1 0.011000 301.118211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 302.475210 
+cts 1 0.011000 302.486210 
+packet lenght: 50 
+data 0 0.043000 302.497211 
+ack 1 0.011000 302.540211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 303.868210 
+cts 1 0.011000 303.879210 
+packet lenght: 50 
+data 0 0.043000 303.890211 
+ack 1 0.011000 303.933211 
+active 1 3.009200
+1 SMAC SLEEP: at 303.939210
+sleep 1 1.289800
+WAKEUP: ............node 1 at 305.229010
+sync 0 0.003000 305.256010 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 305.334210 
+cts 1 0.011000 305.345210 
+packet lenght: 50 
+data 0 0.043000 305.356211 
+ack 1 0.011000 305.399211 
+sync 1 0.003000 306.673010 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 306.758211 
+active 1 1.576200
+1 SMAC SLEEP: at 306.805210
+active 0 13.040200
+0 SMAC SLEEP: at 306.805211
+sleep 1 1.289800
+WAKEUP: ............node 1 at 308.095010
+sleep 0 1.289800
+WAKEUP: ............node 0 at 308.095011
+node: 0 ..............data sent Uni............
+rts 0 0.011000 308.166211 
+cts 1 0.011000 308.177211 
+packet lenght: 50 
+data 0 0.043000 308.188211 
+ack 1 0.011000 308.231211 
+active 1 0.143200
+1 SMAC SLEEP: at 308.238210
+sleep 1 1.289800
+WAKEUP: ............node 1 at 309.528010
+node: 0 ..............data sent Uni............
+rts 0 0.011000 309.624211 
+cts 1 0.011000 309.635211 
+packet lenght: 50 
+data 0 0.043000 309.646211 
+ack 1 0.011000 309.689211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 311.054211 
+cts 1 0.011000 311.065211 
+packet lenght: 50 
+data 0 0.043000 311.076211 
+ack 1 0.011000 311.119211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 312.472211 
+cts 1 0.011000 312.483211 
+packet lenght: 50 
+data 0 0.043000 312.494211 
+ack 1 0.011000 312.537211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 313.912211 
+cts 1 0.011000 313.923211 
+packet lenght: 50 
+data 0 0.043000 313.934211 
+ack 1 0.011000 313.977211 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 315.335211 
+active 1 5.875200
+1 SMAC SLEEP: at 315.403210
+active 0 7.308200
+0 SMAC SLEEP: at 315.403211
+sleep 1 1.289800
+WAKEUP: ............node 1 at 316.693010
+sleep 0 1.289800
+WAKEUP: ............node 0 at 316.693011
+node: 0 ..............data sent Uni............
+rts 0 0.011000 316.769211 
+cts 1 0.011000 316.780211 
+packet lenght: 50 
+data 0 0.043000 316.791211 
+ack 1 0.011000 316.834211 
+active 1 0.143200
+1 SMAC SLEEP: at 316.836210
+sleep 1 1.289800
+WAKEUP: ............node 1 at 318.126010
+node: 0 ..............data sent Uni............
+rts 0 0.011000 318.236211 
+cts 1 0.011000 318.247211 
+packet lenght: 50 
+data 0 0.043000 318.258211 
+ack 1 0.011000 318.301211 
+sync 0 0.003000 319.597011 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 319.637211 
+cts 1 0.011000 319.648211 
+packet lenght: 50 
+data 0 0.043000 319.659211 
+ack 1 0.011000 319.702211 
+sync 1 0.003000 321.010011 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 321.075211 
+cts 1 0.011000 321.086211 
+packet lenght: 50 
+data 0 0.043000 321.097212 
+ack 1 0.011000 321.140212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 322.528211 
+cts 1 0.011000 322.539211 
+packet lenght: 50 
+data 0 0.043000 322.550212 
+ack 1 0.011000 322.593212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 323.939211 
+cts 1 0.011000 323.950211 
+packet lenght: 50 
+data 0 0.043000 323.961212 
+ack 1 0.011000 324.004212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 325.415211 
+cts 1 0.011000 325.426211 
+packet lenght: 50 
+data 0 0.043000 325.437212 
+ack 1 0.011000 325.480212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 326.802211 
+cts 1 0.011000 326.813211 
+packet lenght: 50 
+data 0 0.043000 326.824212 
+ack 1 0.011000 326.867212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 328.271211 
+cts 1 0.011000 328.282211 
+packet lenght: 50 
+data 0 0.043000 328.293212 
+ack 1 0.011000 328.336212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 329.662211 
+cts 1 0.011000 329.673211 
+packet lenght: 50 
+data 0 0.043000 329.684212 
+ack 1 0.011000 329.727212 
+active 1 11.607200
+1 SMAC SLEEP: at 329.733211
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 329.745212 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 329.806212 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 329.867212 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 329.928212 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 329.989212 
+sleep 1 1.289800
+WAKEUP: ............node 1 at 331.023011
+node: 0 ..............data sent Uni............
+rts 0 0.011000 331.131211 
+cts 1 0.011000 331.142211 
+packet lenght: 50 
+data 0 0.043000 331.153212 
+ack 1 0.011000 331.196212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 332.522211 
+cts 1 0.011000 332.533211 
+packet lenght: 50 
+data 0 0.043000 332.544212 
+ack 1 0.011000 332.587212 
+active 1 1.576200
+1 SMAC SLEEP: at 332.599211
+active 0 15.906200
+0 SMAC SLEEP: at 332.599211
+sleep 1 1.289800
+WAKEUP: ............node 1 at 333.889011
+sleep 0 1.289800
+WAKEUP: ............node 0 at 333.889011
+sync 0 0.003000 333.907011 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 334.001211 
+cts 1 0.011000 334.012211 
+packet lenght: 50 
+data 0 0.043000 334.023212 
+ack 1 0.011000 334.066212 
+sync 1 0.003000 335.358011 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 335.410212 
+cts 1 0.011000 335.421212 
+packet lenght: 50 
+data 0 0.043000 335.432212 
+ack 1 0.011000 335.475212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 336.838212 
+cts 1 0.011000 336.849212 
+packet lenght: 50 
+data 0 0.043000 336.860212 
+ack 1 0.011000 336.903212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 338.292212 
+cts 1 0.011000 338.303212 
+packet lenght: 50 
+data 0 0.043000 338.314212 
+ack 1 0.011000 338.357212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 339.693212 
+cts 1 0.011000 339.704212 
+packet lenght: 50 
+data 0 0.043000 339.715212 
+ack 1 0.011000 339.758212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 341.132212 
+cts 1 0.011000 341.143212 
+packet lenght: 50 
+data 0 0.043000 341.154212 
+ack 1 0.011000 341.197212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 342.562212 
+cts 1 0.011000 342.573212 
+packet lenght: 50 
+data 0 0.043000 342.584212 
+ack 1 0.011000 342.627212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 344.030212 
+cts 1 0.011000 344.041212 
+packet lenght: 50 
+data 0 0.043000 344.052212 
+ack 1 0.011000 344.095212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 345.446212 
+cts 1 0.011000 345.457212 
+packet lenght: 50 
+data 0 0.043000 345.468212 
+ack 1 0.011000 345.511212 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 346.868212 
+cts 1 0.011000 346.879212 
+packet lenght: 50 
+data 0 0.043000 346.890212 
+ack 1 0.011000 346.933212 
+sync 0 0.003000 348.252012 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 348.336212 
+cts 1 0.011000 348.347212 
+packet lenght: 50 
+data 0 0.043000 348.358212 
+ack 1 0.011000 348.401212 
+sync 1 0.003000 349.680012 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 349.763212 
+cts 1 0.011000 349.774212 
+packet lenght: 50 
+data 0 0.043000 349.785213 
+ack 1 0.011000 349.828213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 351.167212 
+cts 1 0.011000 351.178212 
+packet lenght: 50 
+data 0 0.043000 351.189213 
+ack 1 0.011000 351.232213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 352.624212 
+cts 1 0.011000 352.635212 
+packet lenght: 50 
+data 0 0.043000 352.646213 
+ack 1 0.011000 352.689213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 354.058212 
+cts 1 0.011000 354.069212 
+packet lenght: 50 
+data 0 0.043000 354.080213 
+ack 1 0.011000 354.123213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 355.470212 
+cts 1 0.011000 355.481212 
+packet lenght: 50 
+data 0 0.043000 355.492213 
+ack 1 0.011000 355.535213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 356.909212 
+cts 1 0.011000 356.920212 
+packet lenght: 50 
+data 0 0.043000 356.931213 
+ack 1 0.011000 356.974213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 358.321212 
+cts 1 0.011000 358.332212 
+packet lenght: 50 
+data 0 0.043000 358.343213 
+ack 1 0.011000 358.386213 
+active 1 24.504201
+1 SMAC SLEEP: at 358.393212
+sleep 1 1.289800
+WAKEUP: ............node 1 at 359.683012
+node: 0 ..............data sent Uni............
+rts 0 0.011000 359.799212 
+cts 1 0.011000 359.810212 
+packet lenght: 50 
+data 0 0.043000 359.821213 
+ack 1 0.011000 359.864213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 361.217212 
+cts 1 0.011000 361.228212 
+packet lenght: 50 
+data 0 0.043000 361.239213 
+ack 1 0.011000 361.282213 
+sync 0 0.003000 362.581012 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 362.637212 
+cts 1 0.011000 362.648212 
+packet lenght: 50 
+data 0 0.043000 362.659213 
+ack 1 0.011000 362.702213 
+sync 1 0.003000 363.996012 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 364.061213 
+cts 1 0.011000 364.072213 
+packet lenght: 50 
+data 0 0.043000 364.083213 
+ack 1 0.011000 364.126213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 365.493213 
+cts 1 0.011000 365.504213 
+packet lenght: 50 
+data 0 0.043000 365.515213 
+ack 1 0.011000 365.558213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 366.972213 
+cts 1 0.011000 366.983213 
+packet lenght: 50 
+data 0 0.043000 366.994213 
+ack 1 0.011000 367.037213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 368.355213 
+cts 1 0.011000 368.366213 
+packet lenght: 50 
+data 0 0.043000 368.377213 
+ack 1 0.011000 368.420213 
+active 1 8.741200
+1 SMAC SLEEP: at 368.424212
+sleep 1 1.289800
+WAKEUP: ............node 1 at 369.714012
+node: 0 ..............data sent Uni............
+rts 0 0.011000 369.811213 
+cts 1 0.011000 369.822213 
+packet lenght: 50 
+data 0 0.043000 369.833213 
+ack 1 0.011000 369.876213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 371.215213 
+cts 1 0.011000 371.226213 
+packet lenght: 50 
+data 0 0.043000 371.237213 
+ack 1 0.011000 371.280213 
+active 1 1.576200
+1 SMAC SLEEP: at 371.290212
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 371.298213 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 371.359213 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 371.420213 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 371.481213 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 371.542213 
+sleep 1 1.289800
+WAKEUP: ............node 1 at 372.580012
+node: 0 ..............data sent Uni............
+rts 0 0.011000 372.671213 
+cts 1 0.011000 372.682213 
+packet lenght: 50 
+data 0 0.043000 372.693213 
+ack 1 0.011000 372.736213 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 374.081213 
+cts 1 0.011000 374.092213 
+packet lenght: 50 
+data 0 0.043000 374.103213 
+ack 1 0.011000 374.146213 
+active 1 1.576200
+1 SMAC SLEEP: at 374.156212
+sleep 1 1.289800
+WAKEUP: ............node 1 at 375.446012
+node: 0 ..............data sent Uni............
+rts 0 0.011000 375.516213 
+cts 1 0.011000 375.527213 
+packet lenght: 50 
+data 0 0.043000 375.538213 
+ack 1 0.011000 375.581213 
+active 1 0.143200
+1 SMAC SLEEP: at 375.589212
+sleep 1 1.289800
+WAKEUP: ............node 1 at 376.879012
+sync 0 0.003000 376.918013 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 376.968213 
+cts 1 0.011000 376.979213 
+packet lenght: 50 
+data 0 0.043000 376.990213 
+ack 1 0.011000 377.033213 
+sync 1 0.003000 378.322013 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 378.395213 
+cts 1 0.011000 378.406213 
+packet lenght: 50 
+data 0 0.043000 378.417214 
+ack 1 0.011000 378.460214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 379.825213 
+active 1 3.009200
+1 SMAC SLEEP: at 379.888213
+active 0 45.999202
+0 SMAC SLEEP: at 379.888213
+sleep 1 1.289800
+WAKEUP: ............node 1 at 381.178013
+sleep 0 1.289800
+WAKEUP: ............node 0 at 381.178013
+node: 0 ..............data sent Uni............
+rts 0 0.011000 381.262213 
+cts 1 0.011000 381.273213 
+packet lenght: 50 
+data 0 0.043000 381.284214 
+ack 1 0.011000 381.327214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 382.723213 
+cts 1 0.011000 382.734213 
+packet lenght: 50 
+data 0 0.043000 382.745214 
+ack 1 0.011000 382.788214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 384.133213 
+cts 1 0.011000 384.144213 
+packet lenght: 50 
+data 0 0.043000 384.155214 
+ack 1 0.011000 384.198214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 385.587213 
+cts 1 0.011000 385.598213 
+packet lenght: 50 
+data 0 0.043000 385.609214 
+ack 1 0.011000 385.652214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 386.997213 
+cts 1 0.011000 387.008213 
+packet lenght: 50 
+data 0 0.043000 387.019214 
+ack 1 0.011000 387.062214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 388.465213 
+cts 1 0.011000 388.476213 
+packet lenght: 50 
+data 0 0.043000 388.487214 
+ack 1 0.011000 388.530214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 389.875213 
+cts 1 0.011000 389.886213 
+packet lenght: 50 
+data 0 0.043000 389.897214 
+ack 1 0.011000 389.940214 
+sync 0 0.003000 391.247013 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 391.279213 
+cts 1 0.011000 391.290213 
+packet lenght: 50 
+data 0 0.043000 391.301214 
+ack 1 0.011000 391.344214 
+active 1 10.174200
+1 SMAC SLEEP: at 391.352213
+sleep 1 1.289800
+WAKEUP: ............node 1 at 392.642013
+sync 1 0.003000 392.673013 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 392.751214 
+cts 1 0.011000 392.762214 
+packet lenght: 50 
+data 0 0.043000 392.773214 
+ack 1 0.011000 392.816214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 394.191214 
+cts 1 0.011000 394.202214 
+packet lenght: 50 
+data 0 0.043000 394.213214 
+ack 1 0.011000 394.256214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 395.635214 
+cts 1 0.011000 395.646214 
+packet lenght: 50 
+data 0 0.043000 395.657214 
+ack 1 0.011000 395.700214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 397.011214 
+cts 1 0.011000 397.022214 
+packet lenght: 50 
+data 0 0.043000 397.033214 
+ack 1 0.011000 397.076214 
+active 1 4.442200
+1 SMAC SLEEP: at 397.084213
+sleep 1 1.289800
+WAKEUP: ............node 1 at 398.374013
+node: 0 ..............data sent Uni............
+rts 0 0.011000 398.496214 
+cts 1 0.011000 398.507214 
+packet lenght: 50 
+data 0 0.043000 398.518214 
+ack 1 0.011000 398.561214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 399.934214 
+cts 1 0.011000 399.945214 
+packet lenght: 50 
+data 0 0.043000 399.956214 
+ack 1 0.011000 399.999214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 401.351214 
+cts 1 0.011000 401.362214 
+packet lenght: 50 
+data 0 0.043000 401.373214 
+ack 1 0.011000 401.416214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 402.740214 
+cts 1 0.011000 402.751214 
+packet lenght: 50 
+data 0 0.043000 402.762214 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 402.823214 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 402.866214 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 404.188214 
+cts 1 0.011000 404.199214 
+packet lenght: 50 
+data 0 0.043000 404.210214 
+ack 1 0.011000 404.253214 
+sync 0 0.003000 405.550014 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 405.625214 
+cts 1 0.011000 405.636214 
+packet lenght: 50 
+data 0 0.043000 405.647214 
+ack 1 0.011000 405.690214 
+sync 1 0.003000 406.991014 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 407.053214 
+cts 1 0.011000 407.064214 
+packet lenght: 50 
+data 0 0.043000 407.075215 
+ack 1 0.011000 407.118215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 408.509214 
+cts 1 0.011000 408.520214 
+packet lenght: 50 
+data 0 0.043000 408.531215 
+ack 1 0.011000 408.574215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 409.932214 
+cts 1 0.011000 409.943214 
+packet lenght: 50 
+data 0 0.043000 409.954215 
+ack 1 0.011000 409.997215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 411.366214 
+cts 1 0.011000 411.377214 
+packet lenght: 50 
+data 0 0.043000 411.388215 
+ack 1 0.011000 411.431215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 412.786214 
+cts 1 0.011000 412.797214 
+packet lenght: 50 
+data 0 0.043000 412.808215 
+ack 1 0.011000 412.851215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 414.223214 
+cts 1 0.011000 414.234214 
+packet lenght: 50 
+data 0 0.043000 414.245215 
+ack 1 0.011000 414.288215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 415.654214 
+cts 1 0.011000 415.665214 
+packet lenght: 50 
+data 0 0.043000 415.676215 
+ack 1 0.011000 415.719215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 417.125214 
+cts 1 0.011000 417.136214 
+packet lenght: 50 
+data 0 0.043000 417.147215 
+ack 1 0.011000 417.190215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 418.547214 
+cts 1 0.011000 418.558214 
+packet lenght: 50 
+data 0 0.043000 418.569215 
+ack 1 0.011000 418.612215 
+sync 0 0.003000 419.882014 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 419.985214 
+cts 1 0.011000 419.996214 
+packet lenght: 50 
+data 0 0.043000 420.007215 
+ack 1 0.011000 420.050215 
+sync 1 0.003000 421.325014 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 421.426215 
+cts 1 0.011000 421.437215 
+packet lenght: 50 
+data 0 0.043000 421.448215 
+ack 1 0.011000 421.491215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 422.860215 
+cts 1 0.011000 422.871215 
+packet lenght: 50 
+data 0 0.043000 422.882215 
+ack 1 0.011000 422.925215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 424.271215 
+cts 1 0.011000 424.282215 
+packet lenght: 50 
+data 0 0.043000 424.293215 
+ack 1 0.011000 424.336215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 425.676215 
+cts 1 0.011000 425.687215 
+packet lenght: 50 
+data 0 0.043000 425.698215 
+ack 1 0.011000 425.741215 
+active 1 27.370201
+1 SMAC SLEEP: at 425.744214
+sleep 1 1.289800
+WAKEUP: ............node 1 at 427.034014
+node: 0 ..............data sent Uni............
+rts 0 0.011000 427.104215 
+cts 1 0.011000 427.115215 
+packet lenght: 50 
+data 0 0.043000 427.126215 
+ack 1 0.011000 427.169215 
+active 1 0.143200
+1 SMAC SLEEP: at 427.177214
+sleep 1 1.289800
+WAKEUP: ............node 1 at 428.467014
+node: 0 ..............data sent Uni............
+rts 0 0.011000 428.571215 
+cts 1 0.011000 428.582215 
+packet lenght: 50 
+data 0 0.043000 428.593215 
+ack 1 0.011000 428.636215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 430.005215 
+cts 1 0.011000 430.016215 
+active 0 48.865201
+0 SMAC SLEEP: at 430.043215
+sleep 0 1.289800
+WAKEUP: ............node 0 at 431.333015
+node: 0 ..............data sent Uni............
+rts 0 0.011000 431.436215 
+cts 1 0.011000 431.447215 
+packet lenght: 50 
+data 0 0.043000 431.458215 
+ack 1 0.011000 431.501215 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 432.844215 
+cts 1 0.011000 432.855215 
+packet lenght: 50 
+data 0 0.043000 432.866215 
+ack 1 0.011000 432.909215 
+sync 0 0.003000 434.236015 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 434.288215 
+cts 1 0.011000 434.299215 
+packet lenght: 50 
+data 0 0.043000 434.310215 
+ack 1 0.011000 434.353215 
+sync 1 0.003000 435.655015 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 435.729215 
+cts 1 0.011000 435.740215 
+packet lenght: 50 
+data 0 0.043000 435.751216 
+ack 1 0.011000 435.794216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 437.149215 
+cts 1 0.011000 437.160215 
+packet lenght: 50 
+data 0 0.043000 437.171216 
+ack 1 0.011000 437.214216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 438.564215 
+cts 1 0.011000 438.575215 
+packet lenght: 50 
+data 0 0.043000 438.586216 
+ack 1 0.011000 438.629216 
+active 1 10.174200
+1 SMAC SLEEP: at 438.641215
+active 0 7.308200
+0 SMAC SLEEP: at 438.641215
+sleep 1 1.289800
+WAKEUP: ............node 1 at 439.931015
+sleep 0 1.289800
+WAKEUP: ............node 0 at 439.931015
+node: 0 ..............data sent Uni............
+rts 0 0.011000 440.008215 
+cts 1 0.011000 440.019215 
+packet lenght: 50 
+data 0 0.043000 440.030216 
+ack 1 0.011000 440.073216 
+active 1 0.143200
+1 SMAC SLEEP: at 440.074215
+sleep 1 1.289800
+WAKEUP: ............node 1 at 441.364015
+node: 0 ..............data sent Uni............
+rts 0 0.011000 441.437215 
+cts 1 0.011000 441.448215 
+packet lenght: 50 
+data 0 0.043000 441.459216 
+ack 1 0.011000 441.502216 
+active 1 0.143200
+1 SMAC SLEEP: at 441.507215
+sleep 1 1.289800
+WAKEUP: ............node 1 at 442.797015
+node: 0 ..............data sent Uni............
+rts 0 0.011000 442.875215 
+cts 1 0.011000 442.886215 
+packet lenght: 50 
+data 0 0.043000 442.897216 
+ack 1 0.011000 442.940216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 444.310215 
+cts 1 0.011000 444.321215 
+packet lenght: 50 
+data 0 0.043000 444.332216 
+ack 1 0.011000 444.375216 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 444.393216 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 444.436216 
+Recd duplicate data pkt! free pkt
+node: 0 ..............data sent Uni............
+rts 0 0.011000 445.788215 
+cts 1 0.011000 445.799215 
+packet lenght: 50 
+data 0 0.043000 445.810216 
+ack 1 0.011000 445.853216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 447.172215 
+cts 1 0.011000 447.183215 
+packet lenght: 50 
+data 0 0.043000 447.194216 
+ack 1 0.011000 447.237216 
+active 1 4.442200
+1 SMAC SLEEP: at 447.239215
+sleep 1 1.289800
+WAKEUP: ............node 1 at 448.529015
+sync 0 0.003000 448.559015 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 448.611215 
+cts 1 0.011000 448.622215 
+packet lenght: 50 
+data 0 0.043000 448.633216 
+ack 1 0.011000 448.676216 
+sync 1 0.003000 449.998015 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 450.069216 
+cts 1 0.011000 450.080216 
+packet lenght: 50 
+data 0 0.043000 450.091216 
+ack 1 0.011000 450.134216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 451.506216 
+cts 1 0.011000 451.517216 
+packet lenght: 50 
+data 0 0.043000 451.528216 
+ack 1 0.011000 451.571216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 452.939216 
+cts 1 0.011000 452.950216 
+packet lenght: 50 
+data 0 0.043000 452.961216 
+ack 1 0.011000 453.004216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 454.326216 
+cts 1 0.011000 454.337216 
+packet lenght: 50 
+data 0 0.043000 454.348216 
+ack 1 0.011000 454.391216 
+active 1 5.875200
+1 SMAC SLEEP: at 454.404215
+active 0 14.473200
+0 SMAC SLEEP: at 454.404216
+sleep 1 1.289800
+WAKEUP: ............node 1 at 455.694015
+sleep 0 1.289800
+WAKEUP: ............node 0 at 455.694016
+node: 0 ..............data sent Uni............
+rts 0 0.011000 455.818216 
+cts 1 0.011000 455.829216 
+packet lenght: 50 
+data 0 0.043000 455.840216 
+ack 1 0.011000 455.883216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 457.202216 
+cts 1 0.011000 457.213216 
+packet lenght: 50 
+data 0 0.043000 457.224216 
+ack 1 0.011000 457.267216 
+active 1 1.576200
+1 SMAC SLEEP: at 457.270215
+sleep 1 1.289800
+WAKEUP: ............node 1 at 458.560015
+node: 0 ..............data sent Uni............
+rts 0 0.011000 458.648216 
+cts 1 0.011000 458.659216 
+packet lenght: 50 
+data 0 0.043000 458.670216 
+ack 1 0.011000 458.713216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 460.074216 
+cts 1 0.011000 460.085216 
+packet lenght: 50 
+data 0 0.043000 460.096216 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 460.157216 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 460.200216 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 461.501216 
+cts 1 0.011000 461.512216 
+packet lenght: 50 
+data 0 0.043000 461.523216 
+ack 1 0.011000 461.566216 
+active 1 3.009200
+1 SMAC SLEEP: at 461.569215
+sleep 1 1.289800
+WAKEUP: ............node 1 at 462.859015
+sync 0 0.003000 462.883016 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 462.972216 
+cts 1 0.011000 462.983216 
+packet lenght: 50 
+data 0 0.043000 462.994216 
+ack 1 0.011000 463.037216 
+sync 1 0.003000 464.326016 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 464.394216 
+cts 1 0.011000 464.405216 
+packet lenght: 50 
+data 0 0.043000 464.416217 
+ack 1 0.011000 464.459217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 465.838216 
+cts 1 0.011000 465.849216 
+packet lenght: 50 
+data 0 0.043000 465.860217 
+ack 1 0.011000 465.903217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 467.282216 
+cts 1 0.011000 467.293216 
+packet lenght: 50 
+data 0 0.043000 467.304217 
+ack 1 0.011000 467.347217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 468.676216 
+cts 1 0.011000 468.687216 
+packet lenght: 50 
+data 0 0.043000 468.698217 
+ack 1 0.011000 468.741217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 470.113216 
+cts 1 0.011000 470.124216 
+packet lenght: 50 
+data 0 0.043000 470.135217 
+ack 1 0.011000 470.178217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 471.535216 
+cts 1 0.011000 471.546216 
+packet lenght: 50 
+data 0 0.043000 471.557217 
+ack 1 0.011000 471.600217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 473.017216 
+cts 1 0.011000 473.028216 
+packet lenght: 50 
+data 0 0.043000 473.039217 
+ack 1 0.011000 473.082217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 474.396216 
+cts 1 0.011000 474.407216 
+packet lenght: 50 
+data 0 0.043000 474.418217 
+ack 1 0.011000 474.461217 
+active 1 11.607200
+1 SMAC SLEEP: at 474.466216
+sleep 1 1.289800
+WAKEUP: ............node 1 at 475.756016
+node: 0 ..............data sent Uni............
+rts 0 0.011000 475.831216 
+cts 1 0.011000 475.842216 
+packet lenght: 50 
+data 0 0.043000 475.853217 
+ack 1 0.011000 475.896217 
+active 1 0.143200
+1 SMAC SLEEP: at 475.899216
+sleep 1 1.289800
+WAKEUP: ............node 1 at 477.189016
+sync 0 0.003000 477.200016 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 477.306216 
+cts 1 0.011000 477.317216 
+packet lenght: 50 
+data 0 0.043000 477.328217 
+ack 1 0.011000 477.371217 
+sync 1 0.003000 478.655016 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 478.724217 
+cts 1 0.011000 478.735217 
+packet lenght: 50 
+data 0 0.043000 478.746217 
+ack 1 0.011000 478.789217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 480.120217 
+cts 1 0.011000 480.131217 
+packet lenght: 50 
+data 0 0.043000 480.142217 
+ack 1 0.011000 480.185217 
+active 1 3.009200
+1 SMAC SLEEP: at 480.198216
+active 0 24.504201
+0 SMAC SLEEP: at 480.198217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 481.488016
+sleep 0 1.289800
+WAKEUP: ............node 0 at 481.488017
+node: 0 ..............data sent Uni............
+rts 0 0.011000 481.568217 
+cts 1 0.011000 481.579217 
+packet lenght: 50 
+data 0 0.043000 481.590217 
+ack 1 0.011000 481.633217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 483.013217 
+cts 1 0.011000 483.024217 
+packet lenght: 50 
+data 0 0.043000 483.035217 
+ack 1 0.011000 483.078217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 484.421217 
+cts 1 0.011000 484.432217 
+packet lenght: 50 
+data 0 0.043000 484.443217 
+ack 1 0.011000 484.486217 
+active 1 3.009200
+1 SMAC SLEEP: at 484.497216
+sleep 1 1.289800
+WAKEUP: ............node 1 at 485.787016
+node: 0 ..............data sent Uni............
+rts 0 0.011000 485.856217 
+cts 1 0.011000 485.867217 
+packet lenght: 50 
+data 0 0.043000 485.878217 
+ack 1 0.011000 485.921217 
+active 1 0.143200
+1 SMAC SLEEP: at 485.930216
+sleep 1 1.289800
+WAKEUP: ............node 1 at 487.220016
+node: 0 ..............data sent Uni............
+rts 0 0.011000 487.285217 
+cts 1 0.011000 487.296217 
+packet lenght: 50 
+data 0 0.043000 487.307217 
+ack 1 0.011000 487.350217 
+active 1 0.143200
+1 SMAC SLEEP: at 487.363216
+active 0 5.875200
+0 SMAC SLEEP: at 487.363217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 488.653016
+sleep 0 1.289800
+WAKEUP: ............node 0 at 488.653017
+node: 0 ..............data sent Uni............
+rts 0 0.011000 488.733217 
+cts 1 0.011000 488.744217 
+packet lenght: 50 
+data 0 0.043000 488.755217 
+ack 1 0.011000 488.798217 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 490.151217 
+cts 1 0.011000 490.162217 
+packet lenght: 50 
+data 0 0.043000 490.173217 
+ack 1 0.011000 490.216217 
+active 1 1.576200
+1 SMAC SLEEP: at 490.229216
+active 0 1.576200
+0 SMAC SLEEP: at 490.229217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 491.519016
+sleep 0 1.289800
+WAKEUP: ............node 0 at 491.519017
+sync 0 0.003000 491.551017 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 491.584217 
+cts 1 0.011000 491.595217 
+packet lenght: 50 
+data 0 0.043000 491.606217 
+ack 1 0.011000 491.649217 
+active 0 0.143200
+0 SMAC SLEEP: at 491.662217
+active 1 0.143200
+1 SMAC SLEEP: at 491.662217
+sleep 0 1.289800
+WAKEUP: ............node 0 at 492.952017
+sleep 1 1.289800
+WAKEUP: ............node 1 at 492.952017
+sync 1 0.003000 492.972017 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 493.036217 
+cts 1 0.011000 493.047217 
+packet lenght: 50 
+data 0 0.043000 493.058218 
+ack 1 0.011000 493.101218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 494.488217 
+cts 1 0.011000 494.499217 
+packet lenght: 50 
+data 0 0.043000 494.510218 
+ack 1 0.011000 494.553218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 495.894217 
+cts 1 0.011000 495.905217 
+packet lenght: 50 
+data 0 0.043000 495.916218 
+ack 1 0.011000 495.959218 
+active 1 3.009200
+1 SMAC SLEEP: at 495.961217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 497.251017
+node: 0 ..............data sent Uni............
+rts 0 0.011000 497.336217 
+cts 1 0.011000 497.347217 
+packet lenght: 50 
+data 0 0.043000 497.358218 
+ack 1 0.011000 497.401218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 498.807217 
+cts 1 0.011000 498.818217 
+packet lenght: 50 
+data 0 0.043000 498.829218 
+ack 1 0.011000 498.872218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 500.243217 
+cts 1 0.011000 500.254217 
+packet lenght: 50 
+data 0 0.043000 500.265218 
+ack 1 0.011000 500.308218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 501.668217 
+cts 1 0.011000 501.679217 
+packet lenght: 50 
+data 0 0.043000 501.690218 
+ack 1 0.011000 501.733218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 503.109217 
+cts 1 0.011000 503.120217 
+packet lenght: 50 
+data 0 0.043000 503.131218 
+ack 1 0.011000 503.174218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 504.501217 
+cts 1 0.011000 504.512217 
+packet lenght: 50 
+data 0 0.043000 504.523218 
+ack 1 0.011000 504.566218 
+sync 0 0.003000 505.872017 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 505.916217 
+cts 1 0.011000 505.927217 
+packet lenght: 50 
+data 0 0.043000 505.938218 
+ack 1 0.011000 505.981218 
+active 1 8.741200
+1 SMAC SLEEP: at 505.992217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 507.282017
+sync 1 0.003000 507.300017 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 507.362217 
+cts 1 0.011000 507.373217 
+packet lenght: 50 
+data 0 0.043000 507.384218 
+ack 1 0.011000 507.427218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 508.781217 
+cts 1 0.011000 508.792217 
+packet lenght: 50 
+data 0 0.043000 508.803218 
+ack 1 0.011000 508.846218 
+active 1 1.576200
+1 SMAC SLEEP: at 508.858217
+active 0 15.906200
+0 SMAC SLEEP: at 508.858217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 510.148017
+sleep 0 1.289800
+WAKEUP: ............node 0 at 510.148017
+node: 0 ..............data sent Uni............
+rts 0 0.011000 510.252217 
+cts 1 0.011000 510.263217 
+packet lenght: 50 
+data 0 0.043000 510.274218 
+ack 1 0.011000 510.317218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 511.693217 
+cts 1 0.011000 511.704217 
+packet lenght: 50 
+data 0 0.043000 511.715218 
+ack 1 0.011000 511.758218 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 511.776218 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 511.819218 
+Recd duplicate data pkt! free pkt
+node: 0 ..............data sent Uni............
+rts 0 0.011000 513.138217 
+cts 1 0.011000 513.149217 
+packet lenght: 50 
+data 0 0.043000 513.160218 
+ack 1 0.011000 513.203218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 514.570217 
+cts 1 0.011000 514.581217 
+packet lenght: 50 
+data 0 0.043000 514.592218 
+ack 1 0.011000 514.635218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 515.961217 
+cts 1 0.011000 515.972217 
+packet lenght: 50 
+data 0 0.043000 515.983218 
+ack 1 0.011000 516.026218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 517.411217 
+cts 1 0.011000 517.422217 
+packet lenght: 50 
+data 0 0.043000 517.433218 
+ack 1 0.011000 517.476218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 518.827217 
+cts 1 0.011000 518.838217 
+packet lenght: 50 
+data 0 0.043000 518.849218 
+ack 1 0.011000 518.892218 
+sync 0 0.003000 520.199017 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 520.262217 
+cts 1 0.011000 520.273217 
+packet lenght: 50 
+data 0 0.043000 520.284218 
+ack 1 0.011000 520.327218 
+sync 1 0.003000 521.623017 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 521.723218 
+cts 1 0.011000 521.734218 
+packet lenght: 50 
+data 0 0.043000 521.745218 
+ack 1 0.011000 521.788218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 523.113218 
+cts 1 0.011000 523.124218 
+packet lenght: 50 
+data 0 0.043000 523.135218 
+ack 1 0.011000 523.178218 
+active 1 13.040200
+1 SMAC SLEEP: at 523.188217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 524.478017
+node: 0 ..............data sent Uni............
+rts 0 0.011000 524.546218 
+cts 1 0.011000 524.557218 
+packet lenght: 50 
+data 0 0.043000 524.568218 
+ack 1 0.011000 524.611218 
+active 1 0.143200
+1 SMAC SLEEP: at 524.621217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 525.911017
+node: 0 ..............data sent Uni............
+rts 0 0.011000 526.024218 
+cts 1 0.011000 526.035218 
+packet lenght: 50 
+data 0 0.043000 526.046218 
+ack 1 0.011000 526.089218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 527.420218 
+cts 1 0.011000 527.431218 
+packet lenght: 50 
+data 0 0.043000 527.442218 
+ack 1 0.011000 527.485218 
+active 1 1.576200
+1 SMAC SLEEP: at 527.487217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 528.777017
+node: 0 ..............data sent Uni............
+rts 0 0.011000 528.869218 
+cts 1 0.011000 528.880218 
+packet lenght: 50 
+data 0 0.043000 528.891218 
+ack 1 0.011000 528.934218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 530.308218 
+cts 1 0.011000 530.319218 
+packet lenght: 50 
+data 0 0.043000 530.330218 
+ack 1 0.011000 530.373218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 531.764218 
+cts 1 0.011000 531.775218 
+packet lenght: 50 
+data 0 0.043000 531.786218 
+ack 1 0.011000 531.829218 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 533.144218 
+cts 1 0.011000 533.155218 
+packet lenght: 50 
+data 0 0.043000 533.166218 
+ack 1 0.011000 533.209218 
+active 1 4.442200
+1 SMAC SLEEP: at 533.219217
+sleep 1 1.289800
+WAKEUP: ............node 1 at 534.509017
+sync 0 0.003000 534.539018 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 534.586218 
+cts 1 0.011000 534.597218 
+packet lenght: 50 
+data 0 0.043000 534.608218 
+ack 1 0.011000 534.651218 
+active 1 0.143200
+1 SMAC SLEEP: at 534.652218
+sleep 1 1.289800
+WAKEUP: ............node 1 at 535.942018
+sync 1 0.003000 535.957018 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 536.063218 
+cts 1 0.011000 536.074218 
+packet lenght: 50 
+data 0 0.043000 536.085219 
+ack 1 0.011000 536.128219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 537.497218 
+cts 1 0.011000 537.508218 
+packet lenght: 50 
+data 0 0.043000 537.519219 
+ack 1 0.011000 537.562219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 538.885218 
+cts 1 0.011000 538.896218 
+packet lenght: 50 
+data 0 0.043000 538.907219 
+ack 1 0.011000 538.950219 
+active 1 3.009200
+1 SMAC SLEEP: at 538.951218
+sleep 1 1.289800
+WAKEUP: ............node 1 at 540.241018
+node: 0 ..............data sent Uni............
+rts 0 0.011000 540.354218 
+cts 1 0.011000 540.365218 
+packet lenght: 50 
+data 0 0.043000 540.376219 
+ack 1 0.011000 540.419219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 541.773218 
+cts 1 0.011000 541.784218 
+packet lenght: 50 
+data 0 0.043000 541.795219 
+SMAC 0: no ACK received. Extend Tx time.
+packet lenght: 50 
+data 0 0.043000 541.856219 
+got data pkt in 1 state XXX 1
+ack 1 0.011000 541.899219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 543.232218 
+cts 1 0.011000 543.243218 
+packet lenght: 50 
+data 0 0.043000 543.254219 
+ack 1 0.011000 543.297219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 544.644218 
+cts 1 0.011000 544.655218 
+packet lenght: 50 
+data 0 0.043000 544.666219 
+ack 1 0.011000 544.709219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 546.061218 
+cts 1 0.011000 546.072218 
+packet lenght: 50 
+data 0 0.043000 546.083219 
+ack 1 0.011000 546.126219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 547.514218 
+cts 1 0.011000 547.525218 
+packet lenght: 50 
+data 0 0.043000 547.536219 
+ack 1 0.011000 547.579219 
+sync 0 0.003000 548.850018 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 548.961218 
+cts 1 0.011000 548.972218 
+packet lenght: 50 
+data 0 0.043000 548.983219 
+ack 1 0.011000 549.026219 
+sync 1 0.003000 550.294018 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 550.399219 
+cts 1 0.011000 550.410219 
+packet lenght: 50 
+data 0 0.043000 550.421219 
+ack 1 0.011000 550.464219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 551.779219 
+cts 1 0.011000 551.790219 
+packet lenght: 50 
+data 0 0.043000 551.801219 
+ack 1 0.011000 551.844219 
+active 1 11.607200
+1 SMAC SLEEP: at 551.848218
+sleep 1 1.289800
+WAKEUP: ............node 1 at 553.138018
+node: 0 ..............data sent Uni............
+rts 0 0.011000 553.205219 
+cts 1 0.011000 553.216219 
+packet lenght: 50 
+data 0 0.043000 553.227219 
+ack 1 0.011000 553.270219 
+active 1 0.143200
+1 SMAC SLEEP: at 553.281218
+sleep 1 1.289800
+WAKEUP: ............node 1 at 554.571018
+node: 0 ..............data sent Uni............
+rts 0 0.011000 554.674219 
+cts 1 0.011000 554.685219 
+packet lenght: 50 
+data 0 0.043000 554.696219 
+ack 1 0.011000 554.739219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 556.124219 
+cts 1 0.011000 556.135219 
+packet lenght: 50 
+data 0 0.043000 556.146219 
+ack 1 0.011000 556.189219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 557.524219 
+cts 1 0.011000 557.535219 
+packet lenght: 50 
+data 0 0.043000 557.546219 
+ack 1 0.011000 557.589219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 558.979219 
+cts 1 0.011000 558.990219 
+packet lenght: 50 
+data 0 0.043000 559.001219 
+ack 1 0.011000 559.044219 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 560.377219 
+active 1 5.875200
+1 SMAC SLEEP: at 560.446218
+active 0 50.298201
+0 SMAC SLEEP: at 560.446219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 561.736018
+sleep 0 1.289800
+WAKEUP: ............node 0 at 561.736019
+node: 0 ..............data sent Uni............
+rts 0 0.011000 561.844219 
+cts 1 0.011000 561.855219 
+packet lenght: 50 
+data 0 0.043000 561.866219 
+ack 1 0.011000 561.909219 
+sync 0 0.003000 563.197019 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 563.292219 
+active 1 1.576200
+1 SMAC SLEEP: at 563.312219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 564.602019
+sync 1 0.003000 564.613019 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 564.670219 
+cts 1 0.011000 564.681219 
+packet lenght: 50 
+data 0 0.043000 564.692220 
+ack 1 0.011000 564.735220 
+active 1 0.143200
+1 SMAC SLEEP: at 564.745219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 566.035019
+node: 0 ..............data sent Uni............
+rts 0 0.011000 566.125219 
+cts 1 0.011000 566.136219 
+packet lenght: 50 
+data 0 0.043000 566.147220 
+ack 1 0.011000 566.190220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 567.582219 
+cts 1 0.011000 567.593219 
+packet lenght: 50 
+data 0 0.043000 567.604220 
+ack 1 0.011000 567.647220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 568.971219 
+cts 1 0.011000 568.982219 
+packet lenght: 50 
+data 0 0.043000 568.993220 
+ack 1 0.011000 569.036220 
+active 1 3.009200
+1 SMAC SLEEP: at 569.044219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 570.334019
+node: 0 ..............data sent Uni............
+rts 0 0.011000 570.410219 
+cts 1 0.011000 570.421219 
+packet lenght: 50 
+data 0 0.043000 570.432220 
+ack 1 0.011000 570.475220 
+active 1 0.143200
+1 SMAC SLEEP: at 570.477219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 571.767019
+node: 0 ..............data sent Uni............
+rts 0 0.011000 571.861219 
+cts 1 0.011000 571.872219 
+packet lenght: 50 
+data 0 0.043000 571.883220 
+ack 1 0.011000 571.926220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 573.270219 
+cts 1 0.011000 573.281219 
+packet lenght: 50 
+data 0 0.043000 573.292220 
+ack 1 0.011000 573.335220 
+active 1 1.576200
+1 SMAC SLEEP: at 573.343219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 574.633019
+node: 0 ..............data sent Uni............
+rts 0 0.011000 574.751219 
+cts 1 0.011000 574.762219 
+packet lenght: 50 
+data 0 0.043000 574.773220 
+ack 1 0.011000 574.816220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 576.156219 
+cts 1 0.011000 576.167219 
+packet lenght: 50 
+data 0 0.043000 576.178220 
+ack 1 0.011000 576.221220 
+sync 0 0.003000 577.539019 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 577.603219 
+active 0 15.906200
+0 SMAC SLEEP: at 577.642219
+active 1 3.009200
+1 SMAC SLEEP: at 577.642219
+sleep 0 1.289800
+WAKEUP: ............node 0 at 578.932019
+sleep 1 1.289800
+WAKEUP: ............node 1 at 578.932019
+sync 1 0.003000 578.944019 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 578.997220 
+cts 1 0.011000 579.008220 
+packet lenght: 50 
+data 0 0.043000 579.019220 
+ack 1 0.011000 579.062220 
+active 1 0.143200
+1 SMAC SLEEP: at 579.075219
+active 0 0.143200
+0 SMAC SLEEP: at 579.075220
+sleep 1 1.289800
+WAKEUP: ............node 1 at 580.365019
+sleep 0 1.289800
+WAKEUP: ............node 0 at 580.365020
+node: 0 ..............data sent Uni............
+rts 0 0.011000 580.481220 
+cts 1 0.011000 580.492220 
+packet lenght: 50 
+data 0 0.043000 580.503220 
+ack 1 0.011000 580.546220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 581.873220 
+cts 1 0.011000 581.884220 
+packet lenght: 50 
+data 0 0.043000 581.895220 
+ack 1 0.011000 581.938220 
+active 1 1.576200
+1 SMAC SLEEP: at 581.941219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 583.231019
+node: 0 ..............data sent Uni............
+rts 0 0.011000 583.333220 
+cts 1 0.011000 583.344220 
+packet lenght: 50 
+data 0 0.043000 583.355220 
+ack 1 0.011000 583.398220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 584.776220 
+cts 1 0.011000 584.787220 
+packet lenght: 50 
+data 0 0.043000 584.798220 
+ack 1 0.011000 584.841220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 586.171220 
+cts 1 0.011000 586.182220 
+packet lenght: 50 
+data 0 0.043000 586.193220 
+ack 1 0.011000 586.236220 
+active 1 3.009200
+1 SMAC SLEEP: at 586.240219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 587.530019
+node: 0 ..............data sent Uni............
+rts 0 0.011000 587.637220 
+cts 1 0.011000 587.648220 
+packet lenght: 50 
+data 0 0.043000 587.659220 
+ack 1 0.011000 587.702220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 589.057220 
+cts 1 0.011000 589.068220 
+packet lenght: 50 
+data 0 0.043000 589.079220 
+ack 1 0.011000 589.122220 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 590.466220 
+cts 1 0.011000 590.477220 
+packet lenght: 50 
+data 0 0.043000 590.488220 
+ack 1 0.011000 590.531220 
+active 1 3.009200
+1 SMAC SLEEP: at 590.539219
+sleep 1 1.289800
+WAKEUP: ............node 1 at 591.829019
+sync 0 0.003000 591.846020 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 591.911220 
+cts 1 0.011000 591.922220 
+packet lenght: 50 
+data 0 0.043000 591.933220 
+ack 1 0.011000 591.976220 
+sync 1 0.003000 593.286020 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 593.370220 
+cts 1 0.011000 593.381220 
+packet lenght: 50 
+data 0 0.043000 593.392221 
+ack 1 0.011000 593.435221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 594.814220 
+cts 1 0.011000 594.825220 
+packet lenght: 50 
+data 0 0.043000 594.836221 
+ack 1 0.011000 594.879221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 596.240220 
+cts 1 0.011000 596.251220 
+packet lenght: 50 
+data 0 0.043000 596.262221 
+ack 1 0.011000 596.305221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 597.634220 
+cts 1 0.011000 597.645220 
+packet lenght: 50 
+data 0 0.043000 597.656221 
+ack 1 0.011000 597.699221 
+active 1 5.875200
+1 SMAC SLEEP: at 597.704220
+sleep 1 1.289800
+WAKEUP: ............node 1 at 598.994020
+node: 0 ..............data sent Uni............
+rts 0 0.011000 599.118220 
+cts 1 0.011000 599.129220 
+packet lenght: 50 
+data 0 0.043000 599.140221 
+ack 1 0.011000 599.183221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 600.506220 
+cts 1 0.011000 600.517220 
+packet lenght: 50 
+data 0 0.043000 600.528221 
+ack 1 0.011000 600.571221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 601.976220 
+cts 1 0.011000 601.987220 
+packet lenght: 50 
+data 0 0.043000 601.998221 
+ack 1 0.011000 602.041221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 603.373220 
+cts 1 0.011000 603.384220 
+packet lenght: 50 
+data 0 0.043000 603.395221 
+ack 1 0.011000 603.438221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 604.826220 
+cts 1 0.011000 604.837220 
+packet lenght: 50 
+data 0 0.043000 604.848221 
+ack 1 0.011000 604.891221 
+sync 0 0.003000 606.172020 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 606.259220 
+cts 1 0.011000 606.270220 
+packet lenght: 50 
+data 0 0.043000 606.281221 
+ack 1 0.011000 606.324221 
+sync 1 0.003000 607.615020 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 607.694221 
+cts 1 0.011000 607.705221 
+packet lenght: 50 
+data 0 0.043000 607.716221 
+ack 1 0.011000 607.759221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 609.144221 
+cts 1 0.011000 609.155221 
+packet lenght: 50 
+data 0 0.043000 609.166221 
+ack 1 0.011000 609.209221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 610.529221 
+cts 1 0.011000 610.540221 
+packet lenght: 50 
+data 0 0.043000 610.551221 
+ack 1 0.011000 610.594221 
+active 1 11.607200
+1 SMAC SLEEP: at 610.601220
+sleep 1 1.289800
+WAKEUP: ............node 1 at 611.891020
+node: 0 ..............data sent Uni............
+rts 0 0.011000 612.005221 
+cts 1 0.011000 612.016221 
+packet lenght: 50 
+data 0 0.043000 612.027221 
+ack 1 0.011000 612.070221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 613.448221 
+cts 1 0.011000 613.459221 
+packet lenght: 50 
+data 0 0.043000 613.470221 
+ack 1 0.011000 613.513221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 614.875221 
+cts 1 0.011000 614.886221 
+packet lenght: 50 
+data 0 0.043000 614.897221 
+ack 1 0.011000 614.940221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 616.284221 
+cts 1 0.011000 616.295221 
+packet lenght: 50 
+data 0 0.043000 616.306221 
+ack 1 0.011000 616.349221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 617.705221 
+cts 1 0.011000 617.716221 
+packet lenght: 50 
+data 0 0.043000 617.727221 
+ack 1 0.011000 617.770221 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 619.141221 
+cts 1 0.011000 619.152221 
+packet lenght: 50 
+data 0 0.043000 619.163221 
+ack 1 0.011000 619.206221 
+sync 0 0.003000 620.517021 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 620.602221 
+cts 1 0.011000 620.613221 
+packet lenght: 50 
+data 0 0.043000 620.624221 
+ack 1 0.011000 620.667221 
+sync 1 0.003000 621.940021 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 621.988221 
+cts 1 0.011000 621.999221 
+packet lenght: 50 
+data 0 0.043000 622.010222 
+ack 1 0.011000 622.053222 
+active 1 10.174200
+1 SMAC SLEEP: at 622.065221
+active 0 41.700201
+0 SMAC SLEEP: at 622.065221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 623.355021
+sleep 0 1.289800
+WAKEUP: ............node 0 at 623.355021
+node: 0 ..............data sent Uni............
+rts 0 0.011000 623.422221 
+cts 1 0.011000 623.433221 
+packet lenght: 50 
+data 0 0.043000 623.444222 
+ack 1 0.011000 623.487222 
+active 1 0.143200
+1 SMAC SLEEP: at 623.498221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 624.788021
+node: 0 ..............data sent Uni............
+rts 0 0.011000 624.910221 
+cts 1 0.011000 624.921221 
+packet lenght: 50 
+data 0 0.043000 624.932222 
+ack 1 0.011000 624.975222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 626.327221 
+cts 1 0.011000 626.338221 
+packet lenght: 50 
+data 0 0.043000 626.349222 
+ack 1 0.011000 626.392222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 627.719221 
+cts 1 0.011000 627.730221 
+packet lenght: 50 
+data 0 0.043000 627.741222 
+ack 1 0.011000 627.784222 
+active 1 3.009200
+1 SMAC SLEEP: at 627.797221
+active 0 4.442200
+0 SMAC SLEEP: at 627.797221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 629.087021
+sleep 0 1.289800
+WAKEUP: ............node 0 at 629.087021
+node: 0 ..............data sent Uni............
+rts 0 0.011000 629.179221 
+cts 1 0.011000 629.190221 
+packet lenght: 50 
+data 0 0.043000 629.201222 
+ack 1 0.011000 629.244222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 630.617221 
+cts 1 0.011000 630.628221 
+packet lenght: 50 
+data 0 0.043000 630.639222 
+ack 1 0.011000 630.682222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 632.041221 
+cts 1 0.011000 632.052221 
+packet lenght: 50 
+data 0 0.043000 632.063222 
+ack 1 0.011000 632.106222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 633.456221 
+cts 1 0.011000 633.467221 
+packet lenght: 50 
+data 0 0.043000 633.478222 
+ack 1 0.011000 633.521222 
+active 1 4.442200
+1 SMAC SLEEP: at 633.529221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 634.819021
+sync 0 0.003000 634.853021 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 634.910221 
+cts 1 0.011000 634.921221 
+packet lenght: 50 
+data 0 0.043000 634.932222 
+ack 1 0.011000 634.975222 
+sync 1 0.003000 636.272021 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 636.372222 
+cts 1 0.011000 636.383222 
+packet lenght: 50 
+data 0 0.043000 636.394222 
+ack 1 0.011000 636.437222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 637.753222 
+cts 1 0.011000 637.764222 
+packet lenght: 50 
+data 0 0.043000 637.775222 
+ack 1 0.011000 637.818222 
+active 1 3.009200
+1 SMAC SLEEP: at 637.828221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 639.118021
+node: 0 ..............data sent Uni............
+rts 0 0.011000 639.183222 
+cts 1 0.011000 639.194222 
+packet lenght: 50 
+data 0 0.043000 639.205222 
+ack 1 0.011000 639.248222 
+active 1 0.143200
+1 SMAC SLEEP: at 639.261221
+active 0 10.174200
+0 SMAC SLEEP: at 639.261222
+sleep 1 1.289800
+WAKEUP: ............node 1 at 640.551021
+sleep 0 1.289800
+WAKEUP: ............node 0 at 640.551022
+node: 0 ..............data sent Uni............
+rts 0 0.011000 640.645222 
+cts 1 0.011000 640.656222 
+packet lenght: 50 
+data 0 0.043000 640.667222 
+ack 1 0.011000 640.710222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 642.053222 
+cts 1 0.011000 642.064222 
+packet lenght: 50 
+data 0 0.043000 642.075222 
+ack 1 0.011000 642.118222 
+active 1 1.576200
+1 SMAC SLEEP: at 642.127221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 643.417021
+node: 0 ..............data sent Uni............
+rts 0 0.011000 643.484222 
+cts 1 0.011000 643.495222 
+packet lenght: 50 
+data 0 0.043000 643.506222 
+ack 1 0.011000 643.549222 
+active 1 0.143200
+1 SMAC SLEEP: at 643.560221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 644.850021
+node: 0 ..............data sent Uni............
+rts 0 0.011000 644.928222 
+cts 1 0.011000 644.939222 
+packet lenght: 50 
+data 0 0.043000 644.950222 
+ack 1 0.011000 644.993222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 646.376222 
+cts 1 0.011000 646.387222 
+packet lenght: 50 
+data 0 0.043000 646.398222 
+ack 1 0.011000 646.441222 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 647.787222 
+cts 1 0.011000 647.798222 
+packet lenght: 50 
+data 0 0.043000 647.809222 
+ack 1 0.011000 647.852222 
+active 1 3.009200
+1 SMAC SLEEP: at 647.859221
+sleep 1 1.289800
+WAKEUP: ............node 1 at 649.149021
+sync 0 0.003000 649.162022 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 649.265222 
+cts 1 0.011000 649.276222 
+packet lenght: 50 
+data 0 0.043000 649.287222 
+ack 1 0.011000 649.330222 
+sync 1 0.003000 650.604022 
+node: 0 ..............data sent Uni............
+rts 0 0.011000 650.683222 
+cts 1 0.011000 650.694222 
+packet lenght: 50 
+data 0 0.043000 650.705223 
+ack 1 0.011000 650.748223 
+sync 0 0.003000 663.511022 
+0 SMAC SLEEP: at 663.622222
+WAKEUP: ............node 0 at 664.912022
+sync 1 0.003000 664.944022 
+1 SMAC SLEEP: at 665.055222
+0 SMAC SLEEP: at 665.055223
+WAKEUP: ............node 1 at 666.345022
+WAKEUP: ............node 0 at 666.345023
+1 SMAC SLEEP: at 666.488222
+0 SMAC SLEEP: at 666.488223
+WAKEUP: ............node 1 at 667.778022
+WAKEUP: ............node 0 at 667.778023
+1 SMAC SLEEP: at 667.921222
+0 SMAC SLEEP: at 667.921223
+WAKEUP: ............node 1 at 669.211022
+WAKEUP: ............node 0 at 669.211023
+1 SMAC SLEEP: at 669.354222
+0 SMAC SLEEP: at 669.3NS EXITING...
+54223
+WAKEUP: ............node 1 at 670.644022
+WAKEUP: ............node 0 at 670.644023
+1 SMAC SLEEP: at 670.787222
+0 SMAC SLEEP: at 670.787223
+WAKEUP: ............node 1 at 672.077022
+WAKEUP: ............node 0 at 672.077023
+1 SMAC SLEEP: at 672.220222
+0 SMAC SLEEP: at 672.220223
+WAKEUP: ............node 1 at 673.510022
+WAKEUP: ............node 0 at 673.510023
+1 SMAC SLEEP: at 673.653222
+0 SMAC SLEEP: at 673.653223
+WAKEUP: ............node 1 at 674.943022
+WAKEUP: ............node 0 at 674.943023
+1 SMAC SLEEP: at 675.086222
+0 SMAC SLEEP: at 675.086223
+WAKEUP: ............node 1 at 676.376022
+WAKEUP: ............node 0 at 676.376023
+1 SMAC SLEEP: at 676.519222
+0 SMAC SLEEP: at 676.519223
+WAKEUP: ............node 1 at 677.809022
+WAKEUP: ............node 0 at 677.809023
+sync 0 0.003000 677.843023 
+0 SMAC SLEEP: at 677.952223
+1 SMAC SLEEP: at 677.952223
+WAKEUP: ............node 0 at 679.242023
+WAKEUP: ............node 1 at 679.242023
+sync 1 0.003000 679.254023 
+1 SMAC SLEEP: at 679.385223
+0 SMAC SLEEP: at 679.385223
+WAKEUP: ............node 1 at 680.675023
+WAKEUP: ............node 0 at 680.675023
+1 SMAC SLEEP: at 680.818223
+0 SMAC SLEEP: at 680.818223
+WAKEUP: ............node 1 at 682.108023
+WAKEUP: ............node 0 at 682.108023
+1 SMAC SLEEP: at 682.251223
+0 SMAC SLEEP: at 682.251223
+WAKEUP: ............node 1 at 683.541023
+WAKEUP: ............node 0 at 683.541023
+1 SMAC SLEEP: at 683.684223
+0 SMAC SLEEP: at 683.684223
+WAKEUP: ............node 1 at 684.974023
+WAKEUP: ............node 0 at 684.974023
+1 SMAC SLEEP: at 685.117223
+0 SMAC SLEEP: at 685.117223
+WAKEUP: ............node 1 at 686.407023
+WAKEUP: ............node 0 at 686.407023
+1 SMAC SLEEP: at 686.550223
+0 SMAC SLEEP: at 686.550223
+WAKEUP: ............node 1 at 687.840023
+WAKEUP: ............node 0 at 687.840023
+1 SMAC SLEEP: at 687.983223
+0 SMAC SLEEP: at 687.983223
+WAKEUP: ............node 1 at 689.273023
+WAKEUP: ............node 0 at 689.273023
+1 SMAC SLEEP: at 689.416223
+0 SMAC SLEEP: at 689.416223
+WAKEUP: ............node 1 at 690.706023
+WAKEUP: ............node 0 at 690.706023
+1 SMAC SLEEP: at 690.849223
+0 SMAC SLEEP: at 690.849223
+WAKEUP: ............node 1 at 692.139023
+WAKEUP: ............node 0 at 692.139023
+sync 0 0.003000 692.160023 
+1 SMAC SLEEP: at 692.282223
+0 SMAC SLEEP: at 692.282223
+WAKEUP: ............node 1 at 693.572023
+WAKEUP: ............node 0 at 693.572023
+sync 1 0.003000 693.608023 
+1 SMAC SLEEP: at 693.715223
+0 SMAC SLEEP: at 693.715223
+WAKEUP: ............node 1 at 695.005023
+WAKEUP: ............node 0 at 695.005023
+1 SMAC SLEEP: at 695.148223
+0 SMAC SLEEP: at 695.148223
+WAKEUP: ............node 1 at 696.438023
+WAKEUP: ............node 0 at 696.438023
+1 SMAC SLEEP: at 696.581223
+0 SMAC SLEEP: at 696.581223
+WAKEUP: ............node 1 at 697.871023
+WAKEUP: ............node 0 at 697.871023
+1 SMAC SLEEP: at 698.014223
+0 SMAC SLEEP: at 698.014223
+WAKEUP: ............node 1 at 699.304023
+WAKEUP: ............node 0 at 699.304023
+1 SMAC SLEEP: at 699.447223
+0 SMAC SLEEP: at 699.447223

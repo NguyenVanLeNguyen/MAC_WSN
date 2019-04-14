@@ -1,0 +1,44 @@
+$node_(2) set X_  374.9241400324
+$node_(2) set Y_ 209.275089067788
+$node_(2) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(2) 20
+$node_(1) set X_ 162.805718197857
+$node_(1) set Y_ 333.918089067788
+$node_(1) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(1) 20
+$node_(0) set X_ 217.744569157453
+$node_(0) set Y_ 235.918089067788
+$node_(0) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(0) 20
+
+$node_(3) set X_ 82.543912601456
+$node_(3) set Y_ 186.918089067788
+$node_(3) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(3) 20
+$node_(4) set X_ 311.805718197857
+$node_(4) set Y_ 141.918089067788
+$node_(4) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(4) 20
+$node_(5) set X_ 261.744569157453
+$node_(5) set Y_ 326.918089067788
+$node_(5) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(5) 20
+
+$node_(6) set X_  176.543912601456
+$node_(6) set Y_ 155.918089067788
+$node_(6) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(6) 20
+$node_(7) set X_ 310.805718197857
+$node_(7) set Y_ 237.918089067788
+$node_(7) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(7) 20
+$node_(8) set X_ 132.744569157453
+$node_(8) set Y_ 262.918089067788
+$node_(8) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(8) 20
+
+$node_(9) set X_ 344.744569157453
+$node_(9) set Y_ 305.918089067788
+$node_(9) set Z_ 0.000000000000
+$ns_ initial_node_pos $node_(9) 20
+
